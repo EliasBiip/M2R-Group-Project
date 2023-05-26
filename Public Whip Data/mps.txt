@@ -1,0 +1,675 @@
+mp_id	first_name	last_name	party	constituency	entered_house	left_house
+42461	Diane	Abbott	Lab	Hackney North and Stoke Newington	2019-12-13	9999-12-31
+42497	Debbie	Abrahams	Lab	Oldham East and Saddleworth	2019-12-13	9999-12-31
+42560	Nigel	Adams	Con	Selby and Ainsty	2019-12-13	9999-12-31
+42559	Bim	Afolami	Con	Hitchin and Harpenden	2019-12-13	9999-12-31
+42528	Adam	Afriyie	Con	Windsor	2019-12-13	9999-12-31
+42205	Nickie	Aiken	Con	Cities of London and Westminster	2019-12-13	9999-12-31
+42611	Peter	Aldous	Con	Waveney	2019-12-13	9999-12-31
+42597	Rushanara	Ali	Lab	Bethnal Green and Bow	2019-12-13	9999-12-31
+42503	Tahir	Ali	Lab	Birmingham, Hall Green	2019-12-13	9999-12-31
+42202	Lucy	Allan	Con	Telford	2019-12-13	9999-12-31
+42250	Rosena	Allin-Khan	Lab	Tooting	2019-12-13	9999-12-31
+42437	Mike	Amesbury	Lab	Weaver Vale	2019-12-13	9999-12-31
+42137	David	Amess	Con	Southend West	2019-12-13	2021-10-15
+42183	Fleur	Anderson	Lab	Putney	2019-12-13	9999-12-31
+42210	Stuart	Anderson	Con	Wolverhampton South West	2019-12-13	9999-12-31
+42525	Lee	Anderson	Con	Ashfield	2019-12-13	9999-12-31
+42508	Stuart	Andrew	Con	Pudsey	2019-12-13	9999-12-31
+42229	Caroline	Ansell	Con	Eastbourne	2019-12-13	9999-12-31
+42314	Tonia	Antoniazzi	Lab	Gower	2019-12-13	9999-12-31
+42653	Edward	Argar	Con	Charnwood	2019-12-13	9999-12-31
+42424	Jon	Ashworth	Lab	Leicester South	2019-12-13	9999-12-31
+42179	Sarah	Atherton	Con	Wrexham	2019-12-13	9999-12-31
+42348	Victoria	Atkins	Con	Louth and Horncastle	2019-12-13	9999-12-31
+42494	Richard	Bacon	Con	South Norfolk	2019-12-13	9999-12-31
+42498	Gareth	Bacon	Con	Orpington	2019-12-13	9999-12-31
+42180	Kemi	Badenoch	Con	Saffron Walden	2019-12-13	9999-12-31
+42185	Shaun	Bailey	Con	West Bromwich West	2019-12-13	9999-12-31
+42284	Siobhan	Baillie	Con	Stroud	2019-12-13	9999-12-31
+42107	Steven	Baker	Con	Wycombe	2019-12-13	9999-12-31
+42303	Duncan	Baker	Con	North Norfolk	2019-12-13	9999-12-31
+42434	Harriett	Baldwin	Con	West Worcestershire	2019-12-13	9999-12-31
+42474	Steve	Barclay	Con	North East Cambridgeshire	2019-12-13	9999-12-31
+42403	Hannah	Bardell	SNP	Livingston	2019-12-13	9999-12-31
+42213	Paula	Barker	Lab	Liverpool, Wavertree	2019-12-13	9999-12-31
+42188	John	Baron	Con	Basildon and Billericay	2019-12-13	9999-12-31
+42124	Simon	Baynes	Con	Clwyd South	2019-12-13	9999-12-31
+42553	Margaret	Beckett	Lab	Derby South	2019-12-13	9999-12-31
+42145	&Oacute;rfhlaith	Begley	SF	West Tyrone	2019-12-13	9999-12-31
+42655	Apsana	Begum	Lab	Poplar and Limehouse	2019-12-13	9999-12-31
+42666	Aaron	Bell	Con	Newcastle-under-Lyme	2019-12-13	9999-12-31
+42275	Hilary	Benn	Lab	Leeds Central	2019-12-13	9999-12-31
+42127	Scott	Benton	Con	Blackpool South	2019-12-13	9999-12-31
+42589	Paul	Beresford	Con	Mole Valley	2019-12-13	9999-12-31
+42612	Jake	Berry	Con	Rossendale and Darwen	2019-12-13	9999-12-31
+42363	Clive	Betts	Lab	Sheffield South East	2019-12-13	9999-12-31
+42311	Saqib	Bhatti	Con	Meriden	2019-12-13	9999-12-31
+42136	Mhairi	Black	SNP	Paisley and Renfrewshire South	2019-12-13	9999-12-31
+42702	Ian	Blackford	SNP	Ross, Skye and Lochaber	2019-12-13	9999-12-31
+42334	Bob	Blackman	Con	Harrow East	2019-12-13	9999-12-31
+42381	Kirsty	Blackman	SNP	Aberdeen North	2019-12-13	9999-12-31
+42634	Olivia	Blake	Lab	Sheffield, Hallam	2019-12-13	9999-12-31
+42588	Paul	Blomfield	Lab	Sheffield Central	2019-12-13	9999-12-31
+42291	Crispin	Blunt	Con	Reigate	2019-12-13	9999-12-31
+42209	Peter	Bone	Con	Wellingborough	2019-12-13	9999-12-31
+42359	Steven	Bonnar	SNP	Coatbridge, Chryston and Bellshill	2019-12-13	9999-12-31
+42690	Peter	Bottomley	Con	Worthing West	2019-12-13	9999-12-31
+42710	Andrew	Bowie	Con	West Aberdeenshire and Kincardine	2019-12-13	9999-12-31
+42641	Tracy	Brabin	Lab	Batley and Spen	2019-12-13	2021-05-10
+42562	Karen	Bradley	Con	Staffordshire Moorlands	2019-12-13	9999-12-31
+42391	Ben	Bradley	Con	Mansfield	2019-12-13	9999-12-31
+42570	Ben	Bradshaw	Lab	Exeter	2019-12-13	9999-12-31
+42629	Graham	Brady	Con	Altrincham and Sale West	2019-12-13	9999-12-31
+42651	Mickey	Brady	SF	Newry and Armagh	2019-12-13	9999-12-31
+42115	Suella	Braverman	Con	Fareham	2019-12-13	9999-12-31
+42614	Kevin	Brennan	Lab	Cardiff West	2019-12-13	9999-12-31
+42548	Jack	Brereton	Con	Stoke-on-Trent South	2019-12-13	9999-12-31
+42450	Andrew	Bridgen	Con	North West Leicestershire	2019-12-13	9999-12-31
+42694	Steve	Brine	Con	Winchester	2019-12-13	9999-12-31
+42103	Paul	Bristow	Con	Peterborough	2019-12-13	9999-12-31
+42430	Sara	Britcliffe	Con	Hyndburn	2019-12-13	9999-12-31
+42649	Deidre	Brock	SNP	Edinburgh North and Leith	2019-12-13	9999-12-31
+42400	James	Brokenshire	Con	Old Bexley and Sidcup	2019-12-13	2021-10-07
+42082	Nick	Brown	Lab	Newcastle upon Tyne East	2019-12-13	9999-12-31
+42357	Lyn	Brown	Lab	West Ham	2019-12-13	9999-12-31
+42358	Alan	Brown	SNP	Kilmarnock and Loudoun	2019-12-13	9999-12-31
+42318	Anthony	Browne	Con	South Cambridgeshire	2019-12-13	9999-12-31
+42659	Fiona	Bruce	Con	Congleton	2019-12-13	9999-12-31
+42156	Chris	Bryant	Lab	Rhondda	2019-12-13	9999-12-31
+42512	Felicity	Buchan	Con	Kensington	2019-12-13	9999-12-31
+42282	Karen	Buck	Lab	Westminster North	2019-12-13	9999-12-31
+42148	Robert	Buckland	Con	South Swindon	2019-12-13	9999-12-31
+42399	Alex	Burghart	Con	Brentwood and Ongar	2019-12-13	9999-12-31
+42444	Richard	Burgon	Lab	Leeds East	2019-12-13	9999-12-31
+42600	Conor	Burns	Con	Bournemouth West	2019-12-13	9999-12-31
+42530	Rob	Butler	Con	Aylesbury	2019-12-13	9999-12-31
+42535	Dawn	Butler	Lab	Brent Central	2019-12-13	9999-12-31
+42411	Liam	Byrne	Lab	Birmingham, Hodge Hill	2019-12-13	9999-12-31
+42195	Ian	Byrne	Lab	Liverpool, West Derby	2019-12-13	9999-12-31
+42567	Ruth	Cadbury	Lab	Brentford and Isleworth	2019-12-13	9999-12-31
+42108	Alun	Cairns	Con	Vale of Glamorgan	2019-12-13	9999-12-31
+42372	Amy	Callaghan	SNP	East Dunbartonshire	2019-12-13	9999-12-31
+42174	Lisa	Cameron	SNP	East Kilbride, Strathaven and Lesmahagow	2019-12-13	9999-12-31
+42119	Alan	Campbell	Lab	Tynemouth	2019-12-13	9999-12-31
+42241	Gregory	Campbell	DUP	East Londonderry	2019-12-13	9999-12-31
+42354	Dan	Carden	Lab	Liverpool, Walton	2019-12-13	9999-12-31
+42716	Alistair	Carmichael	LDem	Orkney and Shetland	2019-12-13	9999-12-31
+42487	Andy	Carter	Con	Warrington South	2019-12-13	9999-12-31
+42346	James	Cartlidge	Con	South Suffolk	2019-12-13	9999-12-31
+42577	Bill	Cash	Con	Stone	2019-12-13	9999-12-31
+42541	Miriam	Cates	Con	Penistone and Stocksbridge	2019-12-13	9999-12-31
+42644	Maria	Caulfield	Con	Lewes	2019-12-13	9999-12-31
+42719	Alex	Chalk	Con	Cheltenham	2019-12-13	9999-12-31
+42413	Wendy	Chamberlain	LDem	North East Fife	2019-12-13	9999-12-31
+42323	Sarah	Champion	Lab	Rotherham	2019-12-13	9999-12-31
+42537	Douglas	Chapman	SNP	Dunfermline and West Fife	2019-12-13	9999-12-31
+42540	Bambos	Charalambous	Lab	Enfield, Southgate	2019-12-13	9999-12-31
+42561	Joanna	Cherry	SNP	Edinburgh South West	2019-12-13	9999-12-31
+42645	Rehman	Chishti	Con	Gillingham and Rainham	2019-12-13	9999-12-31
+42695	Christopher	Chope	Con	Christchurch	2019-12-13	9999-12-31
+42480	Jo	Churchill	Con	Bury St Edmunds	2019-12-13	9999-12-31
+42517	Greg	Clark	Con	Tunbridge Wells	2019-12-13	9999-12-31
+42536	Feryal	Clark	Lab	Enfield North	2019-12-13	9999-12-31
+42566	Theo	Clarke	Con	Stafford	2019-12-13	9999-12-31
+42233	Simon	Clarke	Con	Middlesbrough South and East Cleveland	2019-12-13	9999-12-31
+42367	Brendan	Clarke-Smith	Con	Bassetlaw	2019-12-13	9999-12-31
+42235	Chris	Clarkson	Con	Heywood and Middleton	2019-12-13	9999-12-31
+42288	James	Cleverly	Con	Braintree	2019-12-13	9999-12-31
+42547	Geoffrey	Clifton-Brown	Con	The Cotswolds	2019-12-13	9999-12-31
+42709	Therese	Coffey	Con	Suffolk Coastal	2019-12-13	9999-12-31
+42633	Elliot	Colburn	Con	Carshalton and Wallington	2019-12-13	9999-12-31
+42142	Damian	Collins	Con	Folkestone and Hythe	2019-12-13	9999-12-31
+42258	Rosie	Cooper	Lab	West Lancashire	2019-12-13	2022-11-30
+42568	Daisy	Cooper	LDem	St Albans	2019-12-13	9999-12-31
+42426	Yvette	Cooper	Lab	Normanton, Pontefract and Castleford	2019-12-13	9999-12-31
+42300	Jeremy	Corbyn	Lab	Islington North	2019-12-13	2020-10-28
+42732	Jeremy	Corbyn	Independent	Islington North	2020-10-29	9999-12-31
+42522	Alberto	Costa	Con	South Leicestershire	2019-12-13	9999-12-31
+42293	Robert	Courts	Con	Witney	2019-12-13	9999-12-31
+42505	Claire	Coutinho	Con	East Surrey	2019-12-13	9999-12-31
+42184	Ronnie	Cowan	SNP	Inverclyde	2019-12-13	9999-12-31
+42723	Geoffrey	Cox	Con	Torridge and West Devon	2019-12-13	9999-12-31
+42490	Neil	Coyle	Lab	Bermondsey and Old Southwark	2019-12-13	9999-12-31
+42533	Stephen	Crabb	Con	Preseli Pembrokeshire	2019-12-13	9999-12-31
+42144	Angela	Crawley	SNP	Lanark and Hamilton East	2019-12-13	9999-12-31
+42105	Stella	Creasy	Lab	Walthamstow	2019-12-13	9999-12-31
+42298	Virginia	Crosbie	Con	Ynys M&ocirc;n	2019-12-13	9999-12-31
+42654	Tracey	Crouch	Con	Chatham and Aylesford	2019-12-13	9999-12-31
+42669	Jon	Cruddas	Lab	Dagenham and Rainham	2019-12-13	9999-12-31
+42113	John	Cryer	Lab	Leyton and Wanstead	2019-12-13	9999-12-31
+42607	Judith	Cummins	Lab	Bradford South	2019-12-13	9999-12-31
+42126	Alex	Cunningham	Lab	Stockton North	2019-12-13	9999-12-31
+42255	Janet	Daby	Lab	Lewisham East	2019-12-13	9999-12-31
+42750	Ashley	Dalton	Lab	West Lancashire	2023-02-09	9999-12-31
+42624	James	Daly	Con	Bury North	2019-12-13	9999-12-31
+42285	Edward	Davey	LDem	Kingston and Surbiton	2019-12-13	9999-12-31
+42102	Wayne	David	Lab	Caerphilly	2019-12-13	9999-12-31
+42116	Geraint	Davies	Lab	Swansea West	2019-12-13	9999-12-31
+42347	James	Davies	Con	Vale of Clwyd	2019-12-13	9999-12-31
+42350	Gareth	Davies	Con	Grantham and Stamford	2019-12-13	9999-12-31
+42507	David	Davies	Con	Monmouth	2019-12-13	9999-12-31
+42518	Mims	Davies	Con	Mid Sussex	2019-12-13	9999-12-31
+42626	Philip	Davies	Con	Shipley	2019-12-13	9999-12-31
+42231	Alex	Davies-Jones	Lab	Pontypridd	2019-12-13	9999-12-31
+42175	David	Davis	Con	Haltemprice and Howden	2019-12-13	9999-12-31
+42187	Dehenna	Davison	Con	Bishop Auckland	2019-12-13	9999-12-31
+42491	Martyn	Day	SNP	Linlithgow and East Falkirk	2019-12-13	9999-12-31
+42151	Marsha	de Cordova	Lab	Battersea	2019-12-13	9999-12-31
+42331	Thangam	Debbonaire	Lab	Bristol West	2019-12-13	9999-12-31
+42341	Tan	Dhesi	Lab	Slough	2019-12-13	9999-12-31
+42274	Caroline	Dinenage	Con	Gosport	2019-12-13	9999-12-31
+42431	Sarah	Dines	Con	Derbyshire Dales	2019-12-13	9999-12-31
+42748	Samantha	Dixon	Lab	City of Chester	2022-12-01	9999-12-31
+42308	Jonathan	Djanogly	Con	Huntingdon	2019-12-13	9999-12-31
+42351	Leo	Docherty	Con	Aldershot	2019-12-13	9999-12-31
+42131	Martin	Docherty	SNP	West Dunbartonshire	2019-12-13	9999-12-31
+42309	Anneliese	Dodds	Lab	Oxford East	2019-12-13	9999-12-31
+42592	Jeffrey M.	Donaldson	DUP	Lagan Valley	2019-12-13	9999-12-31
+42578	Michelle	Donelan	Con	Chippenham	2019-12-13	9999-12-31
+42104	Dave	Doogan	SNP	Angus	2019-12-13	9999-12-31
+42390	Allan	Dorans	SNP	Ayr, Carrick and Cumnock	2019-12-13	9999-12-31
+42267	Nadine	Dorries	Con	Mid Bedfordshire	2019-12-13	9999-12-31
+42708	Steve	Double	Con	St Austell and Newquay	2019-12-13	9999-12-31
+42369	Stephen	Doughty	Lab	Cardiff South and Penarth	2019-12-13	9999-12-31
+42128	Peter	Dowd	Lab	Bootle	2019-12-13	9999-12-31
+42154	Oliver	Dowden	Con	Hertsmere	2019-12-13	9999-12-31
+42109	Jackie	Doyle-Price	Con	Thurrock	2019-12-13	9999-12-31
+42451	Richard	Drax	Con	South Dorset	2019-12-13	9999-12-31
+42410	Jack	Dromey	Lab	Birmingham, Erdington	2019-12-13	2022-01-07
+42675	Flick	Drummond	Con	Meon Valley	2019-12-13	9999-12-31
+42139	James	Duddridge	Con	Rochford and Southend East	2019-12-13	9999-12-31
+42153	Rosie	Duffield	Lab	Canterbury	2019-12-13	9999-12-31
+42593	David	Duguid	Con	Banff and Buchan	2019-12-13	9999-12-31
+42149	Iain	Duncan Smith	Con	Chingford and Woodford Green	2019-12-13	9999-12-31
+42584	Philip	Dunne	Con	Ludlow	2019-12-13	9999-12-31
+42225	Angela	Eagle	Lab	Wallasey	2019-12-13	9999-12-31
+42349	Maria	Eagle	Lab	Garston and Halewood	2019-12-13	9999-12-31
+42590	Colum	Eastwood	SDLP	Foyle	2019-12-13	9999-12-31
+42696	Mark	Eastwood	Con	Dewsbury	2019-12-13	9999-12-31
+42728	Jonathan	Edwards	Independent	Carmarthen East and Dinefwr	2020-05-23	9999-12-31
+42325	Ruth	Edwards	Con	Rushcliffe	2019-12-13	9999-12-31
+42243	Jonathan	Edwards	PC	Carmarthen East and Dinefwr	2019-12-13	2020-05-22
+42290	Clive	Efford	Lab	Eltham	2019-12-13	9999-12-31
+42083	Julie	Elliott	Lab	Sunderland Central	2019-12-13	9999-12-31
+42464	Michael	Ellis	Con	Northampton North	2019-12-13	9999-12-31
+42603	Tobias	Ellwood	Con	Bournemouth East	2019-12-13	9999-12-31
+42130	Chris	Elmore	Lab	Ogmore	2019-12-13	9999-12-31
+42257	Natalie	Elphicke	Con	Dover	2019-12-13	9999-12-31
+42336	Florence	Eshalomi	Lab	Vauxhall	2019-12-13	9999-12-31
+42178	Bill	Esterson	Lab	Sefton Central	2019-12-13	9999-12-31
+42252	George	Eustice	Con	Camborne and Redruth	2019-12-13	9999-12-31
+42121	Chris	Evans	Lab	Islwyn	2019-12-13	9999-12-31
+42166	Luke	Evans	Con	Bosworth	2019-12-13	9999-12-31
+42203	Nigel	Evans	Con	Ribble Valley	2019-12-13	9999-12-31
+42598	David	Evennett	Con	Bexleyheath and Crayford	2019-12-13	9999-12-31
+42636	Ben	Everitt	Con	Milton Keynes North	2019-12-13	9999-12-31
+42189	Michael	Fabricant	Con	Lichfield	2019-12-13	9999-12-31
+42270	Laura	Farris	Con	Newbury	2019-12-13	9999-12-31
+42150	Tim	Farron	LDem	Westmorland and Lonsdale	2019-12-13	9999-12-31
+42317	Stephen	Farry	Alliance	North Down	2019-12-13	9999-12-31
+42389	Simon	Fell	Con	Barrow and Furness	2019-12-13	9999-12-31
+42542	Marion	Fellows	SNP	Motherwell and Wishaw	2019-12-13	9999-12-31
+42094	Margaret	Ferrier	SNP	Rutherglen and Hamilton West	2019-12-13	2020-09-30
+42730	Margaret	Ferrier	Independent	Rutherglen and Hamilton West	2020-10-01	9999-12-31
+42219	John	Finucane	SF	Belfast North	2019-12-13	9999-12-31
+42743	Anna	Firth	Con	Southend West	2022-02-04	9999-12-31
+42601	Mark	Fletcher	Con	Bolsover	2019-12-13	9999-12-31
+42664	Colleen	Fletcher	Lab	Coventry North East	2019-12-13	9999-12-31
+42353	Nicholas	Fletcher	Con	Don Valley	2019-12-13	9999-12-31
+42249	Katherine	Fletcher	Con	South Ribble	2019-12-13	9999-12-31
+42383	Stephen	Flynn	SNP	Aberdeen South	2019-12-13	9999-12-31
+42746	Richard	Foord	LDem	Tiverton and Honiton	2022-06-24	9999-12-31
+42230	Vicky	Ford	Con	Chelmsford	2019-12-13	9999-12-31
+42191	Kevin	Foster	Con	Torbay	2019-12-13	9999-12-31
+42099	Yvonne	Fovargue	Lab	Makerfield	2019-12-13	9999-12-31
+42671	Liam	Fox	Con	North Somerset	2019-12-13	9999-12-31
+42259	Vicky	Foxcroft	Lab	Lewisham, Deptford	2019-12-13	9999-12-31
+42264	Mary	Foy	Lab	City of Durham	2019-12-13	9999-12-31
+42366	Mark	Francois	Con	Rayleigh and Wickford	2019-12-13	9999-12-31
+42672	Lucy	Frazer	Con	South East Cambridgeshire	2019-12-13	9999-12-31
+42362	George	Freeman	Con	Mid Norfolk	2019-12-13	9999-12-31
+42632	Mike	Freer	Con	Finchley and Golders Green	2019-12-13	9999-12-31
+42739	Louie	French	Con	Old Bexley and Sidcup	2021-12-02	9999-12-31
+42529	Richard	Fuller	Con	North East Bedfordshire	2019-12-13	9999-12-31
+42263	Gill	Furniss	Lab	Sheffield, Brightside and Hillsborough	2019-12-13	9999-12-31
+42689	Marcus	Fysh	Con	Yeovil	2019-12-13	9999-12-31
+42700	Roger	Gale	Con	North Thanet	2019-12-13	9999-12-31
+42436	Barry	Gardiner	Lab	Brent North	2019-12-13	9999-12-31
+42266	Mark	Garnier	Con	Wyre Forest	2019-12-13	9999-12-31
+42193	Nusrat	Ghani	Con	Wealden	2019-12-13	9999-12-31
+42599	Nick	Gibb	Con	Bognor Regis and Littlehampton	2019-12-13	9999-12-31
+42096	Peter	Gibson	Con	Darlington	2019-12-13	9999-12-31
+42223	Patricia	Gibson	SNP	North Ayrshire and Arran	2019-12-13	9999-12-31
+42483	Jo	Gideon	Con	Stoke-on-Trent Central	2019-12-13	9999-12-31
+42722	Michelle	Gildernew	SF	Fermanagh and South Tyrone	2019-12-13	9999-12-31
+42407	Preet Kaur	Gill	Lab	Birmingham, Edgbaston	2019-12-13	9999-12-31
+42544	Cheryl	Gillan	Con	Chesham and Amersham	2019-12-13	2021-04-04
+42312	Paul	Girvan	DUP	South Antrim	2019-12-13	9999-12-31
+42615	John	Glen	Con	Salisbury	2019-12-13	9999-12-31
+42283	Mary	Glindon	Lab	North Tyneside	2019-12-13	9999-12-31
+42194	Robert	Goodwill	Con	Scarborough and Whitby	2019-12-13	9999-12-31
+42539	Michael	Gove	Con	Surrey Heath	2019-12-13	9999-12-31
+42428	Patrick	Grady	SNP	Glasgow North	2019-12-13	9999-12-31
+42232	Richard	Graham	Con	Gloucester	2019-12-13	9999-12-31
+42510	Peter	Grant	SNP	Glenrothes	2019-12-13	9999-12-31
+42571	Helen	Grant	Con	Maidstone and The Weald	2019-12-13	9999-12-31
+42572	James	Gray	Con	North Wiltshire	2019-12-13	9999-12-31
+42238	Neil	Gray	SNP	Airdrie and Shotts	2019-12-13	2021-03-24
+42375	Chris	Grayling	Con	Epsom and Ewell	2019-12-13	9999-12-31
+42736	Sarah	Green	LDem	Chesham and Amersham	2021-06-18	9999-12-31
+42585	Kate	Green	Lab	Stretford and Urmston	2019-12-13	2022-11-10
+42159	Chris	Green	Con	Bolton West	2019-12-13	9999-12-31
+42246	Damian	Green	Con	Ashford	2019-12-13	9999-12-31
+42206	Margaret	Greenwood	Lab	Wirral West	2019-12-13	9999-12-31
+42364	Lilian	Greenwood	Lab	Nottingham South	2019-12-13	9999-12-31
+42212	Nia	Griffith	Lab	Llanelli	2019-12-13	9999-12-31
+42725	Andrew	Griffith	Con	Arundel and South Downs	2019-12-13	9999-12-31
+42182	James	Grundy	Con	Leigh	2019-12-13	9999-12-31
+42546	Jonathan	Gullis	Con	Stoke-on-Trent North	2019-12-13	9999-12-31
+42443	Andrew	Gwynne	Lab	Denton and Reddish	2019-12-13	9999-12-31
+42527	Louise	Haigh	Lab	Sheffield, Heeley	2019-12-13	9999-12-31
+42114	Robert	Halfon	Con	Harlow	2019-12-13	9999-12-31
+42460	Luke	Hall	Con	Thornbury and Yate	2019-12-13	9999-12-31
+42449	Fabian	Hamilton	Lab	Leeds North East	2019-12-13	9999-12-31
+42744	Paulette	Hamilton	Lab	Birmingham, Erdington	2022-03-04	9999-12-31
+42458	Stephen	Hammond	Con	Wimbledon	2019-12-13	9999-12-31
+42192	Matthew	Hancock	Con	West Suffolk	2019-12-13	9999-12-31
+42326	Greg	Hands	Con	Chelsea and Fulham	2019-12-13	9999-12-31
+42373	Claire	Hanna	SDLP	Belfast South	2019-12-13	9999-12-31
+42414	Neale	Hanvey	Independent	Kirkcaldy and Cowdenbeath	2019-12-13	2020-05-28
+42727	Neale	Hanvey	SNP	Kirkcaldy and Cowdenbeath	2020-05-29	2021-03-27
+42735	Neale	Hanvey	Alba	Kirkcaldy and Cowdenbeath	2021-03-28	9999-12-31
+42421	Emma	Hardy	Lab	Kingston upon Hull West and Hessle	2019-12-13	9999-12-31
+42556	Harriet	Harman	Lab	Camberwell and Peckham	2019-12-13	9999-12-31
+42236	Mark	Harper	Con	Forest of Dean	2019-12-13	9999-12-31
+42134	Carolyn	Harris	Lab	Swansea East	2019-12-13	9999-12-31
+42338	Rebecca	Harris	Con	Castle Point	2019-12-13	9999-12-31
+42161	Trudy	Harrison	Con	Copeland	2019-12-13	9999-12-31
+42477	Simon	Hart	Con	Carmarthen West and South Pembrokeshire	2019-12-13	9999-12-31
+42574	Sally-Ann	Hart	Con	Hastings and Rye	2019-12-13	9999-12-31
+42579	Helen	Hayes	Lab	Dulwich and West Norwood	2019-12-13	9999-12-31
+42204	John	Hayes	Con	South Holland and The Deepings	2019-12-13	9999-12-31
+42355	Christopher	Hazzard	SF	South Down	2019-12-13	9999-12-31
+42501	Oliver	Heald	Con	North East Hertfordshire	2019-12-13	9999-12-31
+42531	John	Healey	Lab	Wentworth and Dearne	2019-12-13	9999-12-31
+42582	James	Heappey	Con	Wells	2019-12-13	9999-12-31
+42622	Chris	Heaton-Harris	Con	Daventry	2019-12-13	9999-12-31
+42524	Gordon	Henderson	Con	Sittingbourne and Sheppey	2019-12-13	9999-12-31
+42171	Mark	Hendrick	Lab	Preston	2019-12-13	9999-12-31
+42621	Drew	Hendry	SNP	Inverness, Nairn, Badenoch and Strathspey	2019-12-13	9999-12-31
+42404	Darren	Henry	Con	Broxtowe	2019-12-13	9999-12-31
+42295	Antony	Higginbotham	Con	Burnley	2019-12-13	9999-12-31
+42117	Mike	Hill	Lab	Hartlepool	2019-12-13	2021-03-16
+42514	Meg	Hillier	Lab	Hackney South and Shoreditch	2019-12-13	9999-12-31
+42482	Damian	Hinds	Con	East Hampshire	2019-12-13	9999-12-31
+42718	Simon	Hoare	Con	North Dorset	2019-12-13	9999-12-31
+42222	Wera	Hobhouse	LDem	Bath	2019-12-13	9999-12-31
+42495	Margaret	Hodge	Lab	Barking	2019-12-13	9999-12-31
+42086	Sharon	Hodgson	Lab	Washington and Sunderland West	2019-12-13	9999-12-31
+42520	Richard	Holden	Con	North West Durham	2019-12-13	9999-12-31
+42478	Kate	Hollern	Lab	Blackburn	2019-12-13	9999-12-31
+42713	Kevin	Hollinrake	Con	Thirsk and Malton	2019-12-13	9999-12-31
+42095	Philip	Hollobone	Con	Kettering	2019-12-13	9999-12-31
+42438	Adam	Holloway	Con	Gravesham	2019-12-13	9999-12-31
+42172	Paul	Holmes	Con	Eastleigh	2019-12-13	9999-12-31
+42173	Rachel	Hopkins	Lab	Luton South	2019-12-13	9999-12-31
+42398	Stewart	Hosie	SNP	Dundee East	2019-12-13	9999-12-31
+42101	George	Howarth	Lab	Knowsley	2019-12-13	9999-12-31
+42327	Paul	Howell	Con	Sedgefield	2019-12-13	9999-12-31
+42685	John	Howell	Con	Henley	2019-12-13	9999-12-31
+42100	Lindsay	Hoyle	SPK	Chorley	2019-12-13	9999-12-31
+42220	Nigel	Huddleston	Con	Mid Worcestershire	2019-12-13	9999-12-31
+42429	Neil	Hudson	Con	Penrith and The Border	2019-12-13	9999-12-31
+42297	Eddie	Hughes	Con	Walsall North	2019-12-13	9999-12-31
+42181	Tom	Hunt	Con	Ipswich	2019-12-13	9999-12-31
+42684	Jane	Hunt	Con	Loughborough	2019-12-13	9999-12-31
+42545	Jeremy	Hunt	Con	South West Surrey	2019-12-13	9999-12-31
+42141	Rupa	Huq	Lab	Ealing Central and Acton	2019-12-13	9999-12-31
+42080	Imran	Hussain	Lab	Bradford East	2019-12-13	9999-12-31
+42439	Alister	Jack	Con	Dumfries and Galloway	2019-12-13	9999-12-31
+42658	Christine	Jardine	LDem	Edinburgh West	2019-12-13	9999-12-31
+42135	Dan	Jarvis	Lab	Barnsley Central	2019-12-13	9999-12-31
+42272	Sajid	Javid	Con	Bromsgrove	2019-12-13	9999-12-31
+42143	Ranil	Jayawardena	Con	North East Hampshire	2019-12-13	9999-12-31
+42197	Bernard	Jenkin	Con	Harwich and North Essex	2019-12-13	9999-12-31
+42092	Mark	Jenkinson	Con	Workington	2019-12-13	9999-12-31
+42565	Andrea	Jenkyns	Con	Morley and Outwood	2019-12-13	9999-12-31
+42392	Robert	Jenrick	Con	Newark	2019-12-13	9999-12-31
+42416	Diana R.	Johnson	Lab	Kingston upon Hull North	2019-12-13	9999-12-31
+42419	Caroline	Johnson	Con	Sleaford and North Hykeham	2019-12-13	9999-12-31
+42470	Boris	Johnson	Con	Uxbridge and South Ruislip	2019-12-13	9999-12-31
+42152	Kim	Johnson	Lab	Liverpool, Riverside	2019-12-13	9999-12-31
+42623	Gareth	Johnson	Con	Dartford	2019-12-13	9999-12-31
+42704	David	Johnston	Con	Wantage	2019-12-13	9999-12-31
+42320	Darren	Jones	Lab	Bristol North West	2019-12-13	9999-12-31
+42333	Andrew	Jones	Con	Harrogate and Knaresborough	2019-12-13	9999-12-31
+42412	Kevan	Jones	Lab	North Durham	2019-12-13	9999-12-31
+42472	Fay	Jones	Con	Brecon and Radnorshire	2019-12-13	9999-12-31
+42492	Sarah	Jones	Lab	Croydon Central	2019-12-13	9999-12-31
+42090	Marcus	Jones	Con	Nuneaton	2019-12-13	9999-12-31
+42199	Gerald	Jones	Lab	Merthyr Tydfil and Rhymney	2019-12-13	9999-12-31
+42216	David	Jones	Con	Clwyd West	2019-12-13	9999-12-31
+42226	Ruth	Jones	Lab	Newport West	2019-12-13	9999-12-31
+42640	Simon	Jupp	Con	East Devon	2019-12-13	9999-12-31
+42639	Mike	Kane	Lab	Wythenshawe and Sale East	2019-12-13	9999-12-31
+42422	Daniel	Kawczynski	Con	Shrewsbury and Atcham	2019-12-13	9999-12-31
+42630	Alicia	Kearns	Con	Rutland and Melton	2019-12-13	9999-12-31
+42269	Gillian	Keegan	Con	Chichester	2019-12-13	9999-12-31
+42521	Barbara	Keeley	Lab	Worsley and Eccles South	2019-12-13	9999-12-31
+42140	Liz	Kendall	Lab	Leicester West	2019-12-13	9999-12-31
+42224	Imran Ahmad	Khan	Con	Wakefield	2019-12-13	2022-05-03
+42682	Afzal	Khan	Lab	Manchester, Gorton	2019-12-13	9999-12-31
+42177	Stephen	Kinnock	Lab	Aberavon	2019-12-13	9999-12-31
+42118	Julian	Knight	Con	Solihull	2019-12-13	9999-12-31
+42440	Greg	Knight	Con	East Yorkshire	2019-12-13	9999-12-31
+42292	Kate	Kniveton	Con	Burton	2019-12-13	9999-12-31
+42652	Danny	Kruger	Con	Devizes	2019-12-13	9999-12-31
+42662	Kwasi	Kwarteng	Con	Spelthorne	2019-12-13	9999-12-31
+42656	Peter	Kyle	Lab	Hove	2019-12-13	9999-12-31
+42120	Eleanor	Laing	Con	Epping Forest	2019-12-13	9999-12-31
+42445	Ben	Lake	PC	Ceredigion	2019-12-13	9999-12-31
+42515	David	Lammy	Lab	Tottenham	2019-12-13	9999-12-31
+42446	John	Lamont	Con	Berwickshire, Roxburgh and Selkirk	2019-12-13	9999-12-31
+42294	Robert	Largan	Con	High Peak	2019-12-13	9999-12-31
+42693	Pauline	Latham	Con	Mid Derbyshire	2019-12-13	9999-12-31
+42093	Ian	Lavery	Lab	Wansbeck	2019-12-13	9999-12-31
+42277	Chris	Law	SNP	Dundee West	2019-12-13	9999-12-31
+42737	Kim	Leadbeater	Lab	Batley and Spen	2021-07-02	9999-12-31
+42724	Andrea	Leadsom	Con	South Northamptonshire	2019-12-13	9999-12-31
+42365	Edward	Leigh	Con	Gainsborough	2019-12-13	9999-12-31
+42079	Ian	Levy	Con	Blyth Valley	2019-12-13	9999-12-31
+42089	Emma	Lewell-Buck	Lab	South Shields	2019-12-13	9999-12-31
+42374	Andrew	Lewer	Con	Northampton South	2019-12-13	9999-12-31
+42343	Brandon	Lewis	Con	Great Yarmouth	2019-12-13	9999-12-31
+42299	Julian	Lewis	Con	New Forest East	2019-12-13	2020-07-14
+42162	Clive	Lewis	Lab	Norwich South	2019-12-13	9999-12-31
+42729	Julian	Lewis	Independent	New Forest East	2020-07-15	2020-12-29
+42747	Julian	Lewis	Con	New Forest East	2020-12-30	9999-12-31
+42605	Ian	Liddell-Grainger	Con	Bridgwater and West Somerset	2019-12-13	9999-12-31
+42745	Simon	Lightwood	Lab	Wakefield	2022-06-24	9999-12-31
+42427	David	Linden	SNP	Glasgow East	2019-12-13	9999-12-31
+42397	Tony	Lloyd	Lab	Rochdale	2019-12-13	9999-12-31
+42674	Carla	Lockhart	DUP	Upper Bann	2019-12-13	9999-12-31
+42677	Chris	Loder	Con	West Dorset	2019-12-13	9999-12-31
+42499	Mark	Logan	Con	Bolton North East	2019-12-13	9999-12-31
+42616	Rebecca	Long-Bailey	Lab	Salford and Eccles	2019-12-13	9999-12-31
+42673	Marco	Longhi	Con	Dudley North	2019-12-13	9999-12-31
+42208	Julia	Lopez	Con	Hornchurch and Upminster	2019-12-13	9999-12-31
+42569	Jack	Lopresti	Con	Filton and Bradley Stoke	2019-12-13	9999-12-31
+42513	Jonathan	Lord	Con	Woking	2019-12-13	9999-12-31
+42618	Tim	Loughton	Con	East Worthing and Shoreham	2019-12-13	9999-12-31
+42466	Caroline	Lucas	Green	Brighton, Pavilion	2019-12-13	9999-12-31
+42619	Holly	Lynch	Lab	Halifax	2019-12-13	9999-12-31
+42738	Kenny	MacAskill	Alba	East Lothian	2021-03-26	9999-12-31
+42301	Kenny	MacAskill	SNP	East Lothian	2019-12-13	2021-03-25
+42668	Craig	Mackinlay	Con	South Thanet	2019-12-13	9999-12-31
+42147	Cherilyn	Mackrory	Con	Truro and Falmouth	2019-12-13	9999-12-31
+42395	Rachel	Maclean	Con	Redditch	2019-12-13	9999-12-31
+42332	Angus	MacNeil	SNP	Na h-Eileanan an Iar	2019-12-13	9999-12-31
+42676	Justin	Madders	Lab	Ellesmere Port and Neston	2019-12-13	9999-12-31
+42396	Khalid	Mahmood	Lab	Birmingham, Perry Barr	2019-12-13	9999-12-31
+42408	Shabana	Mahmood	Lab	Birmingham, Ladywood	2019-12-13	9999-12-31
+42256	Alan	Mak	Con	Havant	2019-12-13	9999-12-31
+42563	Seema	Malhotra	Lab	Feltham and Heston	2019-12-13	9999-12-31
+42594	Kit	Malthouse	Con	North West Hampshire	2019-12-13	9999-12-31
+42385	Anthony	Mangnall	Con	Totnes	2019-12-13	9999-12-31
+42697	Scott	Mann	Con	North Cornwall	2019-12-13	9999-12-31
+42454	Julie	Marson	Con	Hertford and Stortford	2019-12-13	9999-12-31
+42469	Rachael	Maskell	Lab	York Central	2019-12-13	9999-12-31
+42215	Paul	Maskey	SF	Belfast West	2019-12-13	9999-12-31
+42509	Chris	Matheson	Lab	City of Chester	2019-12-13	2022-10-21
+42442	Theresa	May	Con	Maidenhead	2019-12-13	9999-12-31
+42609	Jerome	Mayhew	Con	Broadland	2019-12-13	9999-12-31
+42160	Paul	Maynard	Con	Blackpool North and Cleveleys	2019-12-13	9999-12-31
+42207	Steve	McCabe	Lab	Birmingham, Selly Oak	2019-12-13	9999-12-31
+42329	Kerry	McCarthy	Lab	Bristol East	2019-12-13	9999-12-31
+42377	Karl	McCartney	Con	Lincoln	2019-12-13	9999-12-31
+42714	Jason	McCartney	Con	Colne Valley	2019-12-13	9999-12-31
+42228	Siobhain	McDonagh	Lab	Mitcham and Morden	2019-12-13	9999-12-31
+42084	Andy	McDonald	Lab	Middlesbrough	2019-12-13	9999-12-31
+42456	Stuart	McDonald	SNP	Cumbernauld, Kilsyth and Kirkintilloch East	2019-12-13	9999-12-31
+42459	Stewart	McDonald	SNP	Glasgow South	2019-12-13	9999-12-31
+42281	John Martin	McDonnell	Lab	Hayes and Harlington	2019-12-13	9999-12-31
+42265	Pat	McFadden	Lab	Wolverhampton South East	2019-12-13	9999-12-31
+42125	Conor	McGinn	Lab	St Helens North	2019-12-13	9999-12-31
+42176	Alison	McGovern	Lab	Wirral South	2019-12-13	9999-12-31
+42088	Catherine	McKinnell	Lab	Newcastle upon Tyne North	2019-12-13	9999-12-31
+42405	Anne	McLaughlin	SNP	Glasgow North East	2019-12-13	9999-12-31
+42496	Jim	McMahon	Lab	Oldham West and Royton	2019-12-13	9999-12-31
+42462	Anna	McMorrin	Lab	Cardiff North	2019-12-13	9999-12-31
+42441	John	McNally	SNP	Falkirk	2019-12-13	9999-12-31
+42170	Stephen	McPartland	Con	Stevenage	2019-12-13	9999-12-31
+42306	Esther	McVey	Con	Tatton	2019-12-13	9999-12-31
+42157	Ian	Mearns	Lab	Gateshead	2019-12-13	9999-12-31
+42098	Mark	Menzies	Con	Fylde	2019-12-13	9999-12-31
+42686	Johnny	Mercer	Con	Plymouth, Moor View	2019-12-13	9999-12-31
+42511	Huw	Merriman	Con	Bexhill and Battle	2019-12-13	9999-12-31
+42240	Stephen	Metcalfe	Con	South Basildon and East Thurrock	2019-12-13	9999-12-31
+42379	Ed	Miliband	Lab	Doncaster North	2019-12-13	9999-12-31
+42262	Robin	Millar	Con	Aberconwy	2019-12-13	9999-12-31
+42387	Maria	Miller	Con	Basingstoke	2019-12-13	9999-12-31
+42146	Amanda	Milling	Con	Cannock Chase	2019-12-13	9999-12-31
+42271	Nigel	Mills	Con	Amber Valley	2019-12-13	9999-12-31
+42276	Navendu	Mishra	Lab	Stockport	2019-12-13	9999-12-31
+42432	Andrew	Mitchell	Con	Sutton Coldfield	2019-12-13	9999-12-31
+42680	Gagan	Mohindra	Con	South West Hertfordshire	2019-12-13	9999-12-31
+42218	Francie	Molloy	SF	Mid Ulster	2019-12-13	9999-12-31
+42576	Carol	Monaghan	SNP	Glasgow North West	2019-12-13	9999-12-31
+42691	Robbie	Moore	Con	Keighley	2019-12-13	9999-12-31
+42129	Damien	Moore	Con	Southport	2019-12-13	9999-12-31
+42701	Layla	Moran	LDem	Oxford West and Abingdon	2019-12-13	9999-12-31
+42573	Penny	Mordaunt	Con	Portsmouth North	2019-12-13	9999-12-31
+42196	Jessica	Morden	Lab	Newport East	2019-12-13	9999-12-31
+42741	Helen	Morgan	LDem	North Shropshire	2021-12-16	9999-12-31
+42394	Stephen	Morgan	Lab	Portsmouth South	2019-12-13	9999-12-31
+42313	Grahame	Morris	Lab	Easington	2019-12-13	9999-12-31
+42532	David	Morris	Con	Morecambe and Lunesdale	2019-12-13	9999-12-31
+42163	Anne Marie	Morris	Con	Newton Abbot	2019-12-13	9999-12-31
+42681	James	Morris	Con	Halesowen and Rowley Regis	2019-12-13	9999-12-31
+42435	Joy	Morrissey	Con	Beaconsfield	2019-12-13	9999-12-31
+42733	Jill	Mortimer	Con	Hartlepool	2021-05-07	9999-12-31
+42328	Wendy	Morton	Con	Aldridge-Brownhills	2019-12-13	9999-12-31
+42486	Kieran	Mullan	Con	Crewe and Nantwich	2019-12-13	9999-12-31
+42165	Holly	Mumby-Croft	Con	Scunthorpe	2019-12-13	9999-12-31
+42620	David	Mundell	Con	Dumfriesshire, Clydesdale and Tweeddale	2019-12-13	9999-12-31
+42705	Sheryll	Murray	Con	South East Cornwall	2019-12-13	9999-12-31
+42133	James	Murray	Lab	Ealing North	2019-12-13	9999-12-31
+42481	Ian	Murray	Lab	Edinburgh South	2019-12-13	9999-12-31
+42543	Andrew	Murrison	Con	South West Wiltshire	2019-12-13	9999-12-31
+42217	Lisa	Nandy	Lab	Wigan	2019-12-13	9999-12-31
+42433	Bob	Neill	Con	Bromley and Chislehurst	2019-12-13	9999-12-31
+42201	Gavin	Newlands	SNP	Paisley and Renfrewshire North	2019-12-13	9999-12-31
+42488	Charlotte	Nichols	Lab	Warrington North	2019-12-13	9999-12-31
+42378	Lia	Nici	Con	Great Grimsby	2019-12-13	9999-12-31
+42186	John	Nicolson	SNP	Ochil and South Perthshire	2019-12-13	9999-12-31
+42453	Caroline	Nokes	Con	Romsey and Southampton North	2019-12-13	9999-12-31
+42688	Jesse	Norman	Con	Hereford and South Herefordshire	2019-12-13	9999-12-31
+42164	Alex	Norris	Lab	Nottingham North	2019-12-13	9999-12-31
+42552	Neil	O&#39;Brien	Con	Harborough	2019-12-13	9999-12-31
+42712	Brendan	O&#39;Hara	SNP	Argyll and Bute	2019-12-13	9999-12-31
+42699	Matthew	Offord	Con	Hendon	2019-12-13	9999-12-31
+42289	Sarah	Olney	LDem	Richmond Park	2019-12-13	9999-12-31
+42077	Chi	Onwurah	Lab	Newcastle upon Tyne Central	2019-12-13	9999-12-31
+42337	Guy	Opperman	Con	Hexham	2019-12-13	9999-12-31
+42310	Abena	Oppong-Asare	Lab	Erith and Thamesmead	2019-12-13	9999-12-31
+42211	Kate	Osamor	Lab	Edmonton	2019-12-13	9999-12-31
+42097	Kate	Osborne	Lab	Jarrow	2019-12-13	9999-12-31
+42244	Kirsten	Oswald	SNP	East Renfrewshire	2019-12-13	9999-12-31
+42665	Taiwo	Owatemi	Lab	Coventry North West	2019-12-13	9999-12-31
+42227	Sarah	Owen	Lab	Luton North	2019-12-13	9999-12-31
+42657	Ian	Paisley Jnr	DUP	North Antrim	2019-12-13	9999-12-31
+42678	Neil	Parish	Con	Tiverton and Honiton	2019-12-13	2022-05-04
+42388	Priti	Patel	Con	Witham	2019-12-13	9999-12-31
+42586	Owen	Paterson	Con	North Shropshire	2019-12-13	2021-11-05
+42123	Mark	Pawsey	Con	Rugby	2019-12-13	9999-12-31
+42106	Stephanie	Peacock	Lab	Barnsley East	2019-12-13	9999-12-31
+42110	Mike	Penning	Con	Hemel Hempstead	2019-12-13	9999-12-31
+42417	Matthew	Pennycook	Lab	Greenwich and Woolwich	2019-12-13	9999-12-31
+42631	John	Penrose	Con	Weston-Super-Mare	2019-12-13	9999-12-31
+42558	Andrew	Percy	Con	Brigg and Goole	2019-12-13	9999-12-31
+42484	Toby	Perkins	Lab	Chesterfield	2019-12-13	9999-12-31
+42502	Jess	Phillips	Lab	Birmingham, Yardley	2019-12-13	9999-12-31
+42078	Bridget	Phillipson	Lab	Houghton and Sunderland South	2019-12-13	9999-12-31
+42720	Chris	Philp	Con	Croydon South	2019-12-13	9999-12-31
+42420	Christopher	Pincher	Con	Tamworth	2019-12-13	9999-12-31
+42660	Luke	Pollard	Lab	Plymouth, Sutton and Devonport	2019-12-13	9999-12-31
+42386	Daniel	Poulter	Con	Central Suffolk and North Ipswich	2019-12-13	9999-12-31
+42628	Rebecca	Pow	Con	Taunton Deane	2019-12-13	9999-12-31
+42519	Lucy	Powell	Lab	Manchester Central	2019-12-13	9999-12-31
+42595	Victoria	Prentis	Con	Banbury	2019-12-13	9999-12-31
+42321	Mark	Pritchard	Con	The Wrekin	2019-12-13	9999-12-31
+42663	Tom	Pursglove	Con	Corby	2019-12-13	9999-12-31
+42734	Anum	Qaisar	SNP	Airdrie and Shotts	2021-05-14	9999-12-31
+42721	Jeremy	Quin	Con	Horsham	2019-12-13	9999-12-31
+42155	Will	Quince	Con	Colchester	2019-12-13	9999-12-31
+42200	Yasmin	Qureshi	Lab	Bolton South East	2019-12-13	9999-12-31
+42287	Dominic	Raab	Con	Esher and Walton	2019-12-13	9999-12-31
+42280	Tom	Randall	Con	Gedling	2019-12-13	9999-12-31
+42423	Angela	Rayner	Lab	Ashton-under-Lyne	2019-12-13	9999-12-31
+42198	John	Redwood	Con	Wokingham	2019-12-13	9999-12-31
+42717	Steve	Reed	Lab	Croydon North	2019-12-13	9999-12-31
+42253	Christina	Rees	Lab	Neath	2019-12-13	9999-12-31
+42345	Jacob	Rees-Mogg	Con	North East Somerset	2019-12-13	9999-12-31
+42380	Rachel	Reeves	Lab	Leeds West	2019-12-13	9999-12-31
+42138	Ellie	Reeves	Lab	Lewisham West and Penge	2019-12-13	9999-12-31
+42604	Jonathan	Reynolds	Lab	Stalybridge and Hyde	2019-12-13	9999-12-31
+42340	Bell	Ribeiro-Addy	Lab	Streatham	2019-12-13	9999-12-31
+42268	Nicola	Richards	Con	West Bromwich East	2019-12-13	9999-12-31
+42245	Angela	Richardson	Con	Guildford	2019-12-13	9999-12-31
+42370	Marie	Rimmer	Lab	St Helens South and Whiston	2019-12-13	9999-12-31
+42322	Rob	Roberts	Con	Delyn	2019-12-13	2021-05-24
+42740	Rob	Roberts	Independent	Delyn	2021-05-25	9999-12-31
+42617	Laurence	Robertson	Con	Tewkesbury	2019-12-13	9999-12-31
+42339	Gavin	Robinson	DUP	Belfast East	2019-12-13	9999-12-31
+42475	Mary	Robinson	Con	Cheadle	2019-12-13	9999-12-31
+42384	Matt	Rodda	Lab	Reading East	2019-12-13	9999-12-31
+42239	Andrew	Rosindell	Con	Romford	2019-12-13	9999-12-31
+42296	Douglas	Ross	Con	Moray	2019-12-13	9999-12-31
+42409	Lee	Rowley	Con	North East Derbyshire	2019-12-13	9999-12-31
+42247	Dean	Russell	Con	Watford	2019-12-13	9999-12-31
+42549	Lloyd	Russell-Moyle	Lab	Brighton, Kemptown	2019-12-13	9999-12-31
+42335	David	Rutley	Con	Macclesfield	2019-12-13	9999-12-31
+42500	Gary	Sambrook	Con	Birmingham, Northfield	2019-12-13	9999-12-31
+42167	Liz	Saville-Roberts	PC	Dwyfor Meirionnydd	2019-12-13	9999-12-31
+42468	Selaine	Saxby	Con	North Devon	2019-12-13	9999-12-31
+42476	Paul	Scully	Con	Sutton and Cheam	2019-12-13	9999-12-31
+42418	Bob	Seely	Con	Isle of Wight	2019-12-13	9999-12-31
+42305	Andrew	Selous	Con	South West Bedfordshire	2019-12-13	9999-12-31
+42081	Naseem	Shah	Lab	Bradford West	2019-12-13	9999-12-31
+42221	Jim	Shannon	DUP	Strangford	2019-12-13	9999-12-31
+42667	Grant	Shapps	Con	Welwyn Hatfield	2019-12-13	9999-12-31
+42591	Alok	Sharma	Con	Reading West	2019-12-13	9999-12-31
+42260	Virendra	Sharma	Lab	Ealing, Southall	2019-12-13	9999-12-31
+42638	Barry	Sheerman	Lab	Huddersfield	2019-12-13	9999-12-31
+42523	Alec	Shelbrooke	Con	Elmet and Rothwell	2019-12-13	9999-12-31
+42661	Tommy	Sheppard	SNP	Edinburgh East	2019-12-13	9999-12-31
+42342	Tulip	Siddiq	Lab	Hampstead and Kilburn	2019-12-13	9999-12-31
+42516	David	Simmonds	Con	Ruislip, Northwood and Pinner	2019-12-13	9999-12-31
+42493	Chris	Skidmore	Con	Kingswood	2019-12-13	9999-12-31
+42361	Andrew	Slaughter	Lab	Hammersmith	2019-12-13	9999-12-31
+42316	Alyn	Smith	SNP	Stirling	2019-12-13	9999-12-31
+42401	Nick	Smith	Lab	Blaenau Gwent	2019-12-13	9999-12-31
+42448	Cat	Smith	Lab	Lancaster and Fleetwood	2019-12-13	9999-12-31
+42471	Henry	Smith	Con	Crawley	2019-12-13	9999-12-31
+42555	Julian	Smith	Con	Skipton and Ripon	2019-12-13	9999-12-31
+42575	Chloe	Smith	Con	Norwich North	2019-12-13	9999-12-31
+42647	Royston	Smith	Con	Southampton, Itchen	2019-12-13	9999-12-31
+42683	Jeff	Smith	Lab	Manchester, Withington	2019-12-13	9999-12-31
+42707	Greg	Smith	Con	Buckingham	2019-12-13	9999-12-31
+42463	Karin	Smyth	Lab	Bristol South	2019-12-13	9999-12-31
+42447	Alex	Sobel	Lab	Leeds North West	2019-12-13	9999-12-31
+42670	Amanda	Solloway	Con	Derby North	2019-12-13	9999-12-31
+42242	John	Spellar	Lab	Warley	2019-12-13	9999-12-31
+42625	Mark	Spencer	Con	Sherwood	2019-12-13	9999-12-31
+42504	Ben	Spencer	Con	Runnymede and Weybridge	2019-12-13	9999-12-31
+42376	Alexander	Stafford	Con	Rother Valley	2019-12-13	9999-12-31
+42587	Keir	Starmer	Lab	Holborn and St Pancras	2019-12-13	9999-12-31
+42581	Chris	Stephens	SNP	Glasgow South West	2019-12-13	9999-12-31
+42251	Andrew	Stephenson	Con	Pendle	2019-12-13	9999-12-31
+42526	Jo	Stevens	Lab	Cardiff Central	2019-12-13	9999-12-31
+42122	John	Stevenson	Con	Carlisle	2019-12-13	9999-12-31
+42169	Jane	Stevenson	Con	Wolverhampton North East	2019-12-13	9999-12-31
+42637	Iain	Stewart	Con	Milton Keynes South	2019-12-13	9999-12-31
+42457	Bob	Stewart	Con	Beckenham	2019-12-13	9999-12-31
+42646	Jamie	Stone	LDem	Caithness, Sutherland and Easter Ross	2019-12-13	9999-12-31
+42715	Gary	Streeter	Con	South West Devon	2019-12-13	9999-12-31
+42643	Wes	Streeting	Lab	Ilford North	2019-12-13	9999-12-31
+42613	Mel	Stride	Con	Central Devon	2019-12-13	9999-12-31
+42554	Graham	Stringer	Lab	Blackley and Broughton	2019-12-13	9999-12-31
+42368	Graham	Stuart	Con	Beverley and Holderness	2019-12-13	9999-12-31
+42610	Julian	Sturdy	Con	York Outer	2019-12-13	9999-12-31
+42635	Zarah	Sultana	Lab	Coventry South	2019-12-13	9999-12-31
+42455	Rishi	Sunak	Con	Richmond (Yorks)	2019-12-13	9999-12-31
+42356	James	Sunderland	Con	Bracknell	2019-12-13	9999-12-31
+42479	Desmond	Swayne	Con	New Forest West	2019-12-13	9999-12-31
+42687	Robert	Syms	Con	Poole	2019-12-13	9999-12-31
+42534	Mark	Tami	Lab	Alyn and Deeside	2019-12-13	9999-12-31
+42642	Sam	Tarry	Lab	Ilford South	2019-12-13	9999-12-31
+42580	Alison	Thewliss	SNP	Glasgow Central	2019-12-13	9999-12-31
+42726	Derek	Thomas	Con	St Ives	2019-12-13	9999-12-31
+42452	Gareth	Thomas	Lab	Harrow West	2019-12-13	9999-12-31
+42234	Nick	Thomas-Symonds	Lab	Torfaen	2019-12-13	9999-12-31
+42261	Owen	Thompson	SNP	Midlothian	2019-12-13	9999-12-31
+42679	Richard	Thomson	SNP	Gordon	2019-12-13	9999-12-31
+42254	Emily	Thornberry	Lab	Islington South and Finsbury	2019-12-13	9999-12-31
+42278	Maggie	Throup	Con	Erewash	2019-12-13	9999-12-31
+42402	Stephen	Timms	Lab	East Ham	2019-12-13	9999-12-31
+42344	Edward	Timpson	Con	Eddisbury	2019-12-13	9999-12-31
+42489	Kelly	Tolhurst	Con	Rochester and Strood	2019-12-13	9999-12-31
+42085	Justin	Tomlinson	Con	North Swindon	2019-12-13	9999-12-31
+42692	Michael	Tomlinson	Con	Mid Dorset and North Poole	2019-12-13	9999-12-31
+42302	Craig	Tracey	Con	North Warwickshire	2019-12-13	9999-12-31
+42551	Anne-Marie	Trevelyan	Con	Berwick-upon-Tweed	2019-12-13	9999-12-31
+42564	Jon	Trickett	Lab	Hemsworth	2019-12-13	9999-12-31
+42319	Laura	Trott	Con	Sevenoaks	2019-12-13	9999-12-31
+42706	Elizabeth	Truss	Con	South West Norfolk	2019-12-13	9999-12-31
+42606	Thomas	Tugendhat	Con	Tonbridge and Malling	2019-12-13	9999-12-31
+42273	Karl	Turner	Lab	Kingston upon Hull East	2019-12-13	9999-12-31
+42087	Derek	Twigg	Lab	Halton	2019-12-13	9999-12-31
+42158	Liz	Twist	Lab	Blaydon	2019-12-13	9999-12-31
+42465	Shailesh	Vara	Con	North West Cambridgeshire	2019-12-13	9999-12-31
+42286	Valerie	Vaz	Lab	Walsall South	2019-12-13	9999-12-31
+42324	Matt	Vickers	Con	Stockton South	2019-12-13	9999-12-31
+42425	Martin	Vickers	Con	Cleethorpes	2019-12-13	9999-12-31
+42698	Theresa	Villiers	Con	Chipping Barnet	2019-12-13	9999-12-31
+42742	Christian	Wakeford	Lab	Bury South	2022-01-19	9999-12-31
+42415	Christian	Wakeford	Con	Bury South	2019-12-13	2022-01-18
+42091	Charles	Walker	Con	Broxbourne	2019-12-13	9999-12-31
+42279	Robin	Walker	Con	Worcester	2019-12-13	9999-12-31
+42467	Ben	Wallace	Con	Wyre and Preston North	2019-12-13	9999-12-31
+42248	Jamie	Wallis	Con	Bridgend	2019-12-13	9999-12-31
+42703	David	Warburton	Con	Somerton and Frome	2019-12-13	9999-12-31
+42602	Matt	Warman	Con	Boston and Skegness	2019-12-13	9999-12-31
+42307	Giles	Watling	Con	Clacton	2019-12-13	9999-12-31
+42711	Suzanne	Webb	Con	Stourbridge	2019-12-13	9999-12-31
+42731	Claudia	Webbe	Independent	Leicester East	2020-09-28	9999-12-31
+42111	Claudia	Webbe	Lab	Leicester East	2019-12-13	2020-09-27
+42550	Catherine	West	Lab	Hornsey and Wood Green	2019-12-13	9999-12-31
+42557	Matt	Western	Lab	Warwick and Leamington	2019-12-13	9999-12-31
+42749	Andrew	Western	Lab	Stretford and Urmston	2022-12-16	9999-12-31
+42473	Helen	Whately	Con	Faversham and Mid Kent	2019-12-13	9999-12-31
+42406	Heather	Wheeler	Con	South Derbyshire	2019-12-13	9999-12-31
+42648	Alan	Whitehead	Lab	Southampton, Test	2019-12-13	9999-12-31
+42650	Philippa	Whitford	SNP	Central Ayrshire	2019-12-13	9999-12-31
+42112	Mick	Whitley	Lab	Birkenhead	2019-12-13	9999-12-31
+42608	Craig	Whittaker	Con	Calder Valley	2019-12-13	9999-12-31
+42627	John	Whittingdale	Con	Maldon	2019-12-13	9999-12-31
+42304	Nadia	Whittome	Lab	Nottingham East	2019-12-13	9999-12-31
+42538	Bill	Wiggin	Con	North Herefordshire	2019-12-13	9999-12-31
+42382	James	Wild	Con	North West Norfolk	2019-12-13	9999-12-31
+42315	Hywel	Williams	PC	Arfon	2019-12-13	9999-12-31
+42360	Craig	Williams	Con	Montgomeryshire	2019-12-13	9999-12-31
+42485	Gavin	Williamson	Con	South Staffordshire	2019-12-13	9999-12-31
+42393	Sammy	Wilson	DUP	East Antrim	2019-12-13	9999-12-31
+42214	Munira	Wilson	LDem	Twickenham	2019-12-13	9999-12-31
+42237	Beth	Winter	Lab	Cynon Valley	2019-12-13	9999-12-31
+42330	Rosie	Winterton	Lab	Doncaster Central	2019-12-13	9999-12-31
+42190	Pete	Wishart	SNP	Perth and North Perthshire	2019-12-13	9999-12-31
+42583	Mike	Wood	Con	Dudley South	2019-12-13	9999-12-31
+42371	William	Wragg	Con	Hazel Grove	2019-12-13	9999-12-31
+42352	Jeremy	Wright	Con	Kenilworth and Southam	2019-12-13	9999-12-31
+42596	Mohammad	Yasin	Lab	Bedford	2019-12-13	9999-12-31
+42168	Jacob	Young	Con	Redcar	2019-12-13	9999-12-31
+42132	Nadhim	Zahawi	Con	Stratford-on-Avon	2019-12-13	9999-12-31
+42506	Daniel	Zeichner	Lab	Cambridge	2019-12-13	9999-12-31

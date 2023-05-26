@@ -1,0 +1,795 @@
+division_id	division_date	division_name
+34139	2019-12-20	European Union (Withdrawal Agreement) Bill
+34140	2019-12-20	European Union (Withdrawal Agreement) Bill (Programme)
+34141	2020-01-07	European Union (Withdrawal Agreement) Bill &#8212; Protecting EU Citizens&#8217; Rights
+34142	2020-01-07	European Union (Withdrawal Agreement) Bill &#8212; Fee Levels and Exemptions
+34143	2020-01-07	European Union (Withdrawal Agreement) Bill &#8212; Settled status: right to appeal
+34144	2020-01-08	European Union (Withdrawal Agreement) Bill &#8212; Main power in connection with Ireland/Northern Ireland Protocol
+34145	2020-01-08	European Union (Withdrawal Agreement) Bill &#8212; Arrangements with EU about unaccompanied children seeking asylum
+34146	2020-01-08	European Union (Withdrawal Agreement) Bill &#8212; Parliamentary approval of the future relationship
+34147	2020-01-08	European Union (Withdrawal Agreement) Bill &#8212; Northern Ireland&#8217;s place in the UK internal market
+34148	2020-01-08	European Union (Withdrawal Agreement) Bill &#8212; Interpretation
+34149	2020-01-08	European Union (Withdrawal Agreement) Bill &#8212; Implementation period negotiating objectives: Erasmus+
+34150	2020-01-08	European Union (Withdrawal Agreement) Bill &#8212; Implementation period negotiating objectives: level playing-field
+34151	2020-01-09	European Union (Withdrawal Agreement) Bill
+34152	2020-01-09	European Union (Withdrawal Agreement) Bill
+34153	2020-01-16	Health and Social Care
+34154	2020-01-20	Economy and Jobs
+34155	2020-01-20	Economy and Jobs
+34156	2020-01-20	Economy and Jobs
+34157	2020-01-20	Economy and Jobs
+34163	2020-01-22	European Union (Withdrawal Agreement) Bill &#8212; Rights related to residence: application deadline and temporary protection
+34164	2020-01-22	European Union (Withdrawal Agreement) Bill &#8212; Interpretation of retained EU law and relevant separation agreement law
+34165	2020-01-22	European Union (Withdrawal Agreement) Bill &#8212; Interpretation of retained EU law and relevant separation agreement law
+34166	2020-01-22	European Union (Withdrawal Agreement) Bill &#8212; Arrangements with EU about unaccompanied children seeking asylum
+34168	2020-01-22	European Union (Withdrawal Agreement) Bill &#8212; Regulations
+34194	2020-01-29	Policing and Crime
+34195	2020-01-29	Homelessness
+34196	2020-02-03	Agriculture Bill
+34197	2020-02-04	NHS Funding Bill &#8212; Funding Settlement for the health service in England
+34198	2020-02-04	NHS Funding Bill &#8212; Funding Settlement for the health service in England
+34199	2020-02-04	NHS Funding Bill &#8212; Annual statement on performance
+34200	2020-02-05	Local Government Finance
+34201	2020-02-05	Transport
+34180	2020-02-11	Opposition Day &#8212; Migration and Scotland
+34181	2020-02-12	Terrorist Offenders (Restriction of Early Release) Bill (Business of the House)
+34202	2020-02-25	Tax Avoidance and Evasion
+34203	2020-02-25	Social Care
+34204	2020-03-04	Flooding
+34205	2020-03-04	Health Inequalities
+34206	2020-03-10	Telecommunications Infrastructure (Leasehold Property) Bill &#8212; Code rights in respect of land connected to leased premises
+34207	2020-03-10	Telecommunications Infrastructure (Leasehold Property) Bill &#8212; Code rights in respect of land connected to leased premises
+34208	2020-05-12	Remote Division: Covid-19
+34209	2020-05-13	Remote Division result: New Clause 2
+34210	2020-05-13	Remote Division Result: New Clause 7
+34211	2020-05-13	Remote Division Result: Amendment 39
+34212	2020-05-13	Remote Division Result: Agriculture Bill (Third Reading)
+34213	2020-05-18	Immigration and Social Security Co-ordination (EU Withdrawal) Bill
+34248	2020-06-02	Participation in proceedings
+34219	2020-06-02	Participation in proceedings
+34216	2020-06-02	Parliamentary Constituencies Bill
+34221	2020-06-08	Divorce, Dissolution and Separation Bill [Lords]
+34298	2020-06-10	Children and Young Persons
+34236	2020-06-17	Divorce, Dissolution and Separation Bill [Lords] &#8212; Increased support for marriage and civil partnerships
+34232	2020-06-17	Deferred Division &#8212; Health and Personal Social Services
+34319	2020-06-23	Amendments to the Code of Conduct
+34239	2020-06-24	Demonstrations (Abortion Clinics)
+34299	2020-06-24	Testing of NHS and Social Care Staff
+34320	2020-06-30	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; Duty to commission an independent evaluation: health and social care sectors
+34321	2020-06-30	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; Time limit on immigration detention for EEA and Swiss nationals
+34322	2020-06-30	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; Exemption from no recourse to public funds
+34323	2020-06-30	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; Family Reunion and Settlement
+34324	2020-06-30	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; Regulations under section 5
+34325	2020-07-01	Prime Minister (Nomination) and Cabinet (Appointment)
+34327	2020-07-01	Finance Bill &#8212; New Clause 28 - Review of impact of Act on the environment
+34328	2020-07-01	Finance Bill &#8212; New Clause 26 - Review of impact of Act on job creation
+34329	2020-07-01	Finance Bill &#8212; New Clause 1 - Loan charge: report on effect of the scheme
+34330	2020-07-01	Finance Bill &#8212; Schedule 1 - Workers&#8217; services provided through intermediaries
+34326	2020-07-01	Finance Bill &#8212; Clause 71 - Review of DST
+34305	2020-07-06	Domestic Abuse Bill &#8212; New Clause 22 - Recourse to public funds for domestic abuse survivors
+34306	2020-07-06	Domestic Abuse Bill &#8212; New Clause 23 - Commissioning specialist domestic abuse services for victims and perpetrators of domestic abuse
+34331	2020-07-14	Parliamentary Constituencies Bill &#8212; New Clause 1 - Electorate per constituency
+34332	2020-07-14	Parliamentary Constituencies Bill &#8212; New Clause 2 - Allocation of constituencies
+34333	2020-07-14	Parliamentary Constituencies Bill &#8212; New Clause 2 - Allocation of constituencies
+34334	2020-07-15	Covid-19: Future UK-EU Relationship
+34335	2020-07-20	Trade Bill &#8212; New clause 4 - Parliamentary approval of trade agreements
+34336	2020-07-20	Trade Bill &#8212; New Clause 11 - Import of agricultural goods after IP completion day
+34337	2020-07-20	Trade Bill &#8212; New Clause 17 - International trade agreements: health or care services
+34338	2020-07-20	Trade Bill &#8212; Clause 2 - Implementation of international trade agreements
+34339	2020-07-20	Trade Bill &#8212; Clause 8 - Disclosure of Information By HMRC
+34340	2020-07-21	Counter-Terrorism and Sentencing Bill &#8212; Clause 4 - Serious terrorism sentence for adults aged under 21: England and Wales
+34342	2020-09-01	Fisheries Bill [Lords]
+34343	2020-09-02	Recall of MPs (Change of Party Affiliation)
+34345	2020-09-07	Fire Safety Bill &#8212; New Clause 1 - Duties of owner or manager
+34348	2020-09-08	Extradition (Provisional Arrest) Bill [Lords] &#8212; Schedule - Power of arrest for extradition purposes
+34349	2020-09-08	Extradition (Provisional Arrest) Bill [Lords] &#8212; Schedule - Power of arrest for extradition purposes
+34353	2020-09-09	Protection of Jobs and Businesses
+34351	2020-09-09	Protection of Jobs and Businesses
+34365	2020-09-09	Awarding of Qualifications: Role of Ministers
+34355	2020-09-11	Speaker&#8217;s Statement
+34356	2020-09-14	United Kingdom Internal Market Bill
+34359	2020-09-14	United Kingdom Internal Market Bill
+34360	2020-09-14	United Kingdom Internal Market Bill (Money)
+34361	2020-09-15	United Kingdom Internal Market Bill &#8212; Clause 28 - Functions of the CMA under this Part: general provisions
+34371	2020-09-15	United Kingdom Internal Market Bill &#8212; New Clause 2 - Limits on powers to override common frameworks
+34368	2020-09-16	United Kingdom Internal Market Bill &#8212; Clause 46 - Power to provide financial assistance for economic development etc
+34369	2020-09-16	United Kingdom Internal Market Bill &#8212; Clause 47 - Financial assistance: supplementary
+34372	2020-09-21	United Kingdom Internal Market Bill &#8212; Clause 40 - Northern Ireland's place in the UK internal market and customs territory
+34373	2020-09-21	United Kingdom Internal Market Bill &#8212; Clause 40 - Northern Ireland's place in the UK internal market and customs territory
+34374	2020-09-21	United Kingdom Internal Market Bill &#8212; Clause 42 - Power to disapply or modify export declarations and other exit procedures
+34375	2020-09-21	United Kingdom Internal Market Bill &#8212; Clause 45 - Further provision related to sections 42 and 43 etc
+34376	2020-09-22	United Kingdom Internal Market Bill &#8212; Clause 54 - Extent, commencement and short title
+34392	2020-09-23	Overseas Operations (Service Personnel And Veterans) Bill
+34378	2020-09-23	Deferred Divisions &#8212; Public Health
+34379	2020-09-23	Deferred Divisions &#8212; Public Health
+34380	2020-09-23	Deferred Divisions &#8212; Public Health
+34381	2020-09-23	Deferred Divisions &#8212; Public Health
+34382	2020-09-23	Deferred Divisions &#8212; Public Health
+34383	2020-09-23	Deferred Divisions &#8212; Public Health
+34384	2020-09-23	Deferred Divisions &#8212; Public Health
+35300	2020-09-29	United Kingdom Internal Market Bill &#8212; New Clause 1 - Withdrawal Agreement and Rule of Law Duty
+35301	2020-09-29	United Kingdom Internal Market Bill &#8212; New Clause 6 - Economic development: climate and nature emergency impact statement
+35302	2020-09-29	United Kingdom Internal Market Bill &#8212; New Clause 7 - Northern Ireland&#8217;s place in the UK internal market
+35303	2020-09-29	United Kingdom Internal Market Bill &#8212; Clause 45 - Further provision related to sections 42 and 43 etc
+35304	2020-09-29	United Kingdom Internal Market Bill &#8212; Schedule 2 - Services Exclusions
+35305	2020-09-29	United Kingdom Internal Market Bill &#8212; Schedule 2 - Services Exclusions
+34405	2020-09-30	Coronavirus Act 2020 (Review of Temporary Provisions)
+35306	2020-09-30	Town and Country Planning
+35307	2020-09-30	Town and Country Planning
+35308	2020-09-30	Town and Country Planning
+35309	2020-09-30	Deferred Divisions &#8212; Immigration
+35310	2020-09-30	Deferred Divisions &#8212; Employment
+34421	2020-10-05	Covert Human Intelligence Sources (Criminal Conduct) Bill
+35311	2020-10-06	Private International Law (Implementation of Agreements) Bill [Lords] &#8212; New Clause 5 - IMPLEMENTATION OF OTHER AGREEMENTS ON PRIVATE INTERNATIONAL LAW (NO. 3)
+34424	2020-10-06	Public Health
+35312	2020-10-12	Agriculture Bill &#8212; After Clause 34 - Application of pesticides: limitations on use to protect human health
+35313	2020-10-12	Agriculture Bill &#8212; After Clause 42 - Requirement for agricultural and food imports to meet domestic standards
+35314	2020-10-12	Agriculture Bill &#8212; After Clause 42 - Contribution of agriculture and associated land use to climate change targets
+34438	2020-10-13	Business of the House (Today)
+34439	2020-10-13	Public Health
+35315	2020-10-13	Fisheries Bill [Lords] &#8212; New Clause 3 - Sea Fish Industry Authority: accounts and reports
+35316	2020-10-13	Fisheries Bill [Lords] &#8212; Clause 1 - Fisheries Objectives
+35317	2020-10-13	Fisheries Bill [Lords] &#8212; Schedule 3 - Sea fishing licences: further provision
+34695	2020-10-13	Business of the House (Today)
+35318	2020-10-14	Covid-19 Economic Support Package
+35319	2020-10-14	Local Contact Tracing
+35320	2020-10-15	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; Clause 1 - Authorisation of criminal conduct
+35321	2020-10-15	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; Clause 1 - Authorisation of criminal conduct
+35322	2020-10-15	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; Clause 2
+35323	2020-10-15	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; New clause 4
+35324	2020-10-15	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; New clause 4
+35325	2020-10-19	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; After Clause 1 - Impact of section 1 on the social care sector
+35326	2020-10-19	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; After Clause 4 - Children in Care and Children Entitled to Care Leaving Support: Entitlement to Remain
+35327	2020-10-19	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; After Clause 4 - Leave to Enter: Family Unity and Claims for Asylum
+35328	2020-10-19	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; After Clause 4 - EU Settlement Scheme: physical documented proof
+35329	2020-10-19	Immigration and Social Security Co-ordination (EU Withdrawal) Bill &#8212; After Clause 4 - Time limit on immigration detention for EEA and Swiss nationals
+35330	2020-10-21	Additional Covid-19 Restrictions: Fair Economic Support
+35331	2020-10-21	Free School Meals
+35332	2020-10-21	Deferred Divisions &#8212; Exiting the European Union (Immigration)
+34462	2020-10-21	Deferred Divisions &#8212; Insolvency
+34463	2020-10-21	Deferred Divisions &#8212; Public Health
+34464	2020-10-21	Deferred Divisions &#8212; Public Health
+34465	2020-10-21	Deferred Divisions &#8212; Community Infrastructure Levy
+34477	2020-10-23	Prayers - <i> [Mr Speaker in the Chair] </i>
+35333	2020-11-03	Overseas Operations (Service Personnel and Veterans) Bill &#8212; New Clause 5 - RESTRICTIONS ON TIME LIMITS: ACTIONS BROUGHT AGAINST THE CROWN BY SERVICE PERSONNEL
+35334	2020-11-03	Overseas Operations (Service Personnel and Veterans) Bill &#8212; Clause 6 - &#8220;Relevant offence&#8221;
+35335	2020-11-03	Overseas Operations (Service Personnel and Veterans) Bill &#8212; Schedule 1 - Excluded offences for the purposes of section 6
+35336	2020-11-03	Overseas Operations (Service Personnel and Veterans) Bill &#8212; Schedule 1 - Excluded offences for the purposes of section 6
+35337	2020-11-04	Public Health
+35338	2020-11-04	Agriculture Bill &#8212; After Clause 42 - Duty to seek equivalence on agri-food standards in relation to future trade
+35339	2020-11-04	Immigration and Social Security Co-ordination (EU Withdrawal) Bill
+35340	2020-11-10	Parliamentary Constituencies Bill &#8212; Clause 1 - Reports of the Boundary Commissions
+35341	2020-11-10	Parliamentary Constituencies Bill &#8212; After Clause 4
+35342	2020-11-10	Parliamentary Constituencies Bill &#8212; After Clause 5
+35343	2020-11-10	Parliamentary Constituencies Bill &#8212; After Clause 6
+35344	2020-11-10	Committee on Standards
+35345	2020-11-16	Pension Schemes Bill [Lords] &#8212; New Clause 1 - Pensions Guidance
+35346	2020-11-16	Pension Schemes Bill [Lords] &#8212; New Clause 4 - Employer debt: trustees&#8217; discretion
+35347	2020-11-16	Pension Schemes Bill [Lords] &#8212; Clause 123 - Funding of defined benefit schemes
+35348	2020-11-16	Pension Schemes Bill [Lords] &#8212; Clause 124 - Climate change risk
+35349	2020-11-17	Delegated Legislation &#8212; Exiting the European Union (Environmental Protection)
+35350	2020-11-25	Deferred Division &#8212; Exiting the European Union (Constitutional Law)
+35351	2020-12-01	Public Health
+35352	2020-12-02	Deferred Division
+35353	2020-12-07	United Kingdom Internal Market Bill &#8212; After Clause 1 - Common frameworks process
+35354	2020-12-07	United Kingdom Internal Market Bill &#8212; Clause 10 - Further exclusions from market access principles
+35355	2020-12-07	United Kingdom Internal Market Bill &#8212; Clause 47 - Further provision related to sections 44 and 45 etc
+35356	2020-12-07	United Kingdom Internal Market Bill &#8212; Clause 48 - Power to provide financial assistance for economic development etc
+35357	2020-12-08	Northern Ireland (Ways and Means)
+34553	2020-12-08	Delegated Legislation &#8212; Financial Assistance to Industry
+35358	2020-12-09	Taxation (Post-transition Period) Bill &#8212; Clause 1 - Duty on goods removed to Northern Ireland
+35359	2020-12-09	Delegated Legislation &#8212; Exiting the European Union (Immigration and Asylum)
+35360	2020-12-10	United Kingdom Internal Market Bill &#8212; After Clause 1 - COMMON FRAMEWORKS PROCESS
+35361	2020-12-10	United Kingdom Internal Market Bill &#8212; After Clause 1 - COMMON FRAMEWORKS PROCESS
+35362	2020-12-10	United Kingdom Internal Market Bill &#8212; After Clause 1 - COMMON FRAMEWORKS PROCESS
+35363	2020-12-15	United Kingdom Internal Market Bill &#8212; After Clause 10 - Further exclusions from market access principles
+35364	2020-12-15	Taxation (Post-transition Period) Bill &#8212; New Clause 3 - Treasury use of powers
+36661	2020-12-30	Miscellaneous
+36662	2020-12-30	European Union (Future Relationship) Bill
+36663	2020-12-30	European Union (Future Relationship) Bill
+35368	2020-12-30	Sittings of the House
+35369	2021-01-06	Public Health
+35370	2021-01-13	Financial Services Bill &#8212; New Clause 7 - Regulation of buy-now-pay-later firms
+36664	2021-01-13	Financial Services Bill &#8212; New Clause 21 - Duty of care specification
+36665	2021-01-13	Financial Services Bill &#8212; Schedule 2 - Prudential regulation of FCA investment firms
+35373	2021-01-18	Universal Credit and Working Tax Credit
+35374	2021-01-18	Remote Education and Free School Meals
+36666	2021-01-19	Trade Bill &#8212; After Clause 2 - Parliamentary approval of trade agreements
+36667	2021-01-19	Trade Bill &#8212; After Clause 6 - Trade And Agriculture Commission: Advisory Functions
+36668	2021-01-19	Trade Bill &#8212; After Clause 2 - Free Trade Agreements: Determination on Compliance with International Obligations and State Actions
+36669	2021-01-19	Trade Bill &#8212; After Clause 2 - Agreements with states accused of committing genocide
+36670	2021-01-19	Trade Bill &#8212; After Clause 2 - International trade agreements: health, care or publicly funded data processing services and IT systems in connection with the provision of health and care
+36671	2021-01-19	Trade Bill &#8212; After Clause 2 - Ratification of International Trade Agreements and Treaties
+36672	2021-01-19	Trade Bill &#8212; After Clause 2 - Standards affected by international trade agreements
+36673	2021-01-19	Trade Bill &#8212; After Clause 2 - Protection of Children Online
+36674	2021-01-19	Trade Bill &#8212; After Clause 2 - Northern Ireland: Non-Discrimination in Goods and Services
+36675	2021-01-20	National Security and Investment Bill &#8212; New Clause 4 - Framework for understanding national security
+35385	2021-01-20	National Security and Investment Bill &#8212; New Clause 6 - Dedicated Small to Medium Enterprise support
+36676	2021-01-20	National Security and Investment Bill &#8212; New Clause 7 - Reports to the Intelligence and Security Committee of Parliament
+35387	2021-01-25	Council Tax: Government&#8217;s Proposed Increase
+35388	2021-01-25	Employment Rights: Government Plans
+36677	2021-01-26	Environment Bill &#8212; New Clause 1 - Environmental Principles: Public Authorities
+36678	2021-01-26	Environment Bill &#8212; New Clause 5 - State of nature target
+36679	2021-01-26	Environment Bill &#8212; Clause 2 - Environmental targets: particulate matter
+36680	2021-01-26	Environment Bill &#8212; Clause 7 - ENVIRONMENTAL IMPROVEMENT PLANS
+36681	2021-01-26	Environment Bill &#8212; Schedule 20 - Amendment of REACH legislation
+36682	2021-01-27	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; Clause 1 - Authorisation of Criminal Conduct
+36683	2021-01-27	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; Clause 1 - Authorisation of Criminal Conduct
+36684	2021-01-27	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; Clause 1 - Authorisation of Criminal Conduct
+36685	2021-01-27	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; After Clause 2 - Notification to a Judicial Commissioner
+36686	2021-01-27	Covert Human Intelligence Sources (Criminal Conduct) Bill &#8212; Clause 1 - Authorisation of Criminal Conduct
+36687	2021-01-27	Deferred Division &#8212; Local Government
+35400	2021-02-01	Unsafe Cladding: Protecting Tenants and Leaseholders
+35401	2021-02-01	Covid Security at UK Borders
+36688	2021-02-03	Exiting the European Union (Excise)
+36689	2021-02-09	Trade Bill &#8212; After Clause 2 - Parliamentary approval of international trade agreements and treaties
+36690	2021-02-09	Trade Bill &#8212; After Clause 2 - Parliamentary approval of international trade agreements and treaties
+36691	2021-02-09	Trade Bill &#8212; After Clause 2 - Parliamentary approval of international trade agreements and treaties
+36692	2021-02-10	Deferred Division &#8212; Public Health
+35407	2021-02-23	Government's Management of the Economy
+35408	2021-02-23	Coronavirus: Supporting Businesses and Individuals
+35409	2021-02-24	Fire Safety Bill &#8212; After Clause 2 - Prohibition on passing remediation costs on to leaseholders and tenants
+35410	2021-02-24	Fire Safety Bill &#8212; After Clause 2 - Prohibition on passing remediation costs on to leaseholders and tenants
+36693	2021-02-24	Business of the House
+36694	2021-03-09	5. Basic rate limit and personal allowance (future years)
+36695	2021-03-11	Contingencies Fund (No. 2) Bill &#8212; Clause 1 - Temporary increase in capital limit of Contingencies Fund
+36696	2021-03-16	Police, Crime, Sentencing and Courts Bill &#8212; [2nd Allotted Day]
+36697	2021-03-16	Police, Crime, Sentencing and Courts Bill &#8212; [2nd Allotted Day]
+36698	2021-03-17	Scotland: General Election and Constitutional Future
+36699	2021-03-17	Scotland: General Election and Constitutional Future
+36700	2021-03-17	Leaving the EU: Impact on the UK
+36701	2021-03-22	Trade Bill &#8212; After Clause 2 - Trade agreements and genocide
+36702	2021-03-22	Trade Bill &#8212; After Clause 2 - Trade agreements and genocide
+36703	2021-03-22	Fire Safety Bill &#8212; After Clause 2 - Prohibition on passing remediation costs on to leaseholders and tenants
+35422	2021-03-25	Coronavirus Act 2020 (Review of Temporary Provisions) (No.2)
+36704	2021-04-13	Finance (No. 2) Bill
+36705	2021-04-13	Finance (No. 2) Bill
+35425	2021-04-14	NHS Pay Award (Report)
+36706	2021-04-14	Lobbying of Government Committee
+36707	2021-04-14	Strength of the UK&#8217;s Armed Forces
+36708	2021-04-15	Domestic Abuse Bill &#8212; Clause 2 - Definition of &#8220;personally connected&#8221;
+36709	2021-04-15	Domestic Abuse Bill &#8212; Clause 55 - Support provided by local authorities to victims of domestic abuse
+36710	2021-04-15	Domestic Abuse Bill &#8212; After Clause 64 - Training
+36711	2021-04-15	Domestic Abuse Bill &#8212; Before Clause 69 - Reasonable force in domestic abuse cases
+36712	2021-04-15	Domestic Abuse Bill &#8212; Defence for victims of domestic abuse who commit an offence
+36713	2021-04-15	Domestic Abuse Bill &#8212; After Clause 72 - Victims of domestic abuse: data-sharing for immigration purposes
+36714	2021-04-15	Domestic Abuse Bill &#8212; Victims of domestic abuse: leave to remain and the destitution domestic violence concession (DDVC)
+36715	2021-04-15	Domestic Abuse Bill &#8212; Monitoring of serial and serious harm domestic abuse and stalking perpetrators under Multi-Agency Public Protection Arrangements
+36716	2021-04-15	Domestic Abuse Bill &#8212; Effective protection and support for all victims of domestic abuse
+36717	2021-04-19	Finance (No. 2) Bill &#8212; Clause 5 - Basic rate limit and personal allowance for future tax years
+36718	2021-04-19	Finance (No. 2) Bill &#8212; New Clause 10 - Review of changes to coronavirus support payments etc
+36719	2021-04-19	Finance (No. 2) Bill &#8212; New Clause 23 - EQUALITY IMPACT ANALYSIS
+36720	2021-04-19	Finance (No. 2) Bill &#8212; Clause 9 - Super-deductions and other temporary first-year allowances
+36721	2021-04-19	Finance (No. 2) Bill &#8212; New Clause 24 - Review of super-deductions
+36722	2021-04-19	Finance (No. 2) Bill &#8212; New Clause 25 - Review of freeports
+36723	2021-04-20	Finance (No. 2) Bill &#8212; New Clause 29 - Review of tax avoidance measures
+36724	2021-04-20	Finance (No. 2) Bill &#8212; Clause 87 - Temporary Period For Reduced Rates On Residential Property
+36725	2021-04-21	Overseas Operations (Service Personnel and Veterans) Bill &#8212; After Clause 7 - Investigation of allegations related to overseas operations
+36726	2021-04-21	Overseas Operations (Service Personnel and Veterans) Bill &#8212; After Clause 12 - Restrictions on time limits: actions brought against the Crown by service personnel
+36727	2021-04-21	Overseas Operations (Service Personnel and Veterans) Bill &#8212; Duty Of Care To Service Personnel
+36728	2021-04-26	Financial Services Bill &#8212; Before Clause 1 - Duty of care for financial service providers
+36729	2021-04-26	Domestic Abuse Bill &#8212; Clause 55 - Annual reports
+36730	2021-04-26	Domestic Abuse Bill &#8212; After Clause 72 - Victims of domestic abuse: data-sharing for immigration purposes
+36731	2021-04-26	Domestic Abuse Bill &#8212; Recourse to public funds for duration of pilot scheme
+36732	2021-04-26	Domestic Abuse Bill &#8212; Before Clause 69 - identification, monitoring and management of serial domestic abuse and stalking perpetrators
+36733	2021-04-26	National Security and Investment Bill &#8212; Clause 61 - Annual Report
+36734	2021-04-27	Fire Safety Bill &#8212; After Clause 2 - Prohibition on passing remediation costs on to leaseholders and tenants pending operation of a statutory scheme
+36735	2021-04-27	Overseas Operations (Service Personnel and Veterans) Bill &#8212; After Clause 12 - Duty of care to service personnel
+35456	2021-04-27	Delegated Legislation &#8212; Health and Personal Social Services
+36736	2021-04-28	Fire Safety Bill &#8212; After Clause 2 - Legislative proposals relating to prohibition on passing remediation costs on to leaseholders and tenants
+36737	2021-04-28	Immigration
+36738	2021-04-28	National Security and Investment Bill &#8212; Clause 61 - Annual report
+36739	2021-05-18	Affordable and Safe Housing for All
+36740	2021-05-19	A Plan for the NHS and Social Care
+36741	2021-05-19	A Plan for the NHS and Social Care
+36742	2021-05-19	A Plan for the NHS and Social Care
+36743	2021-05-19	A Plan for the NHS and Social Care
+36744	2021-05-24	Finance Bill &#8212; New Clause 23 - Review of impact of a global minimum rate of corporation tax
+36745	2021-05-24	Finance Bill &#8212; Clause 9 - Super-deductions and other temporary first-year allowances
+36746	2021-05-24	Finance Bill &#8212; New Clause 25 - Reporting on the impact of new arrangements on each freeport
+36747	2021-05-24	Finance Bill &#8212; New Clause 24 - Review of impact of 2% non-resident surcharge
+36748	2021-05-24	Finance Bill &#8212; New Clause 9 - Review of changes to coronavirus support payments etc
+36749	2021-05-24	Finance Bill &#8212; Schedule 24 - Penalties for deliberately withholding information
+36750	2021-05-25	Telecommunications (Security) Bill &#8212; New Clause 1 - OFCOM&#8217;s Annual Report
+35472	2021-05-25	Telecommunications (Security) Bill &#8212; New Clause 2 - Provision of information to the Intelligence and Security Committee
+36751	2021-05-25	Telecommunications (Security) Bill &#8212; New Clause 3 - Network diversification
+36752	2021-05-26	Environment Bill &#8212; New Clause 25 - Duty to prepare a Tree Strategy for England
+36753	2021-05-26	Environment Bill &#8212; Clause 95 - General duty to conserve and enhance biodiversity
+36754	2021-05-26	Environment Bill &#8212; New Clause 12 - Well consents for hydraulic fracturing: cessation of issue and termination
+36755	2021-05-26	Environment Bill &#8212; New Clause 24 - Prohibition on burning of peat in upland areas
+36756	2021-06-07	Advanced Research and Invention Agency Bill &#8212; New Clause 1 - Human Rights Abuses
+36757	2021-06-07	Advanced Research and Invention Agency Bill &#8212; New Clause 1 - Human Rights Abuses
+36758	2021-06-07	Advanced Research and Invention Agency Bill &#8212; Clause 6 - Information
+35481	2021-06-09	Investing in Children and Young People
+35482	2021-06-09	Protecting the Public and Justice for Victims
+36759	2021-06-09	Deferred Division &#8212; Information Commissioner (Remuneration)
+36760	2021-06-15	Catch-up Premium
+36761	2021-06-15	Covid-Secure Borders
+35486	2021-06-16	Coronavirus
+35487	2021-06-16	Proceedings During the Pandemic
+36762	2021-06-16	Deferred Division &#8212; Climate Change
+36763	2021-06-21	Protecting Britain&#8217;s Steel Industry
+35489	2021-06-21	Planning Decisions: Local Involvement
+36764	2021-06-23	Armed Forces Bill &#8212; Clause 8 - Reserve forces: flexibility of commitments
+36765	2021-06-23	Armed Forces Bill &#8212; Clause 8 - Reserve forces: flexibility of commitments
+36766	2021-06-23	Armed Forces Bill &#8212; New Clause 7 - Indefinite leave to remain payments by Commonwealth and Gurkha members of armed forces
+36767	2021-06-23	Deferred Division &#8212; Adjournment (Conference, November and Christmas)
+36768	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; New Clause 31 - Offence of assaulting etc. retail worker
+36769	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; New Clause 91 - Review of the Misuse of Drugs Act 1971
+36770	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; Clause 55 - Imposing conditions on public processions
+36771	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; Clause 62 - Offence relating to residing on land without consent in or with a vehicle
+36772	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; New Clause 19 - Justice impact assessment for Wales
+36773	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; New Clause 89 - Minimum sentence for an offence under section 1 of the Sexual Offences Act 2003
+36774	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; New Clause 97 - Video recorded cross-examination or re-examination of complainants in respect of sexual offences and modern slavery offences
+36775	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; New Clause 98 - Offence of pet theft
+36776	2021-07-05	Police, Crime, Sentencing and Courts Bill &#8212; New Clause 98 - Offence of pet theft
+36777	2021-07-06	Dissolution and Calling of Parliament Bill
+36778	2021-07-07	Covid-19: Contracts and Public Inquiry
+36779	2021-07-07	EU Settlement Scheme
+36780	2021-07-12	Higher Education (Freedom of Speech) Bill
+36781	2021-07-13	International Aid: Treasury Update
+36782	2021-07-13	Armed Forces Bill &#8212; New Clause 4
+36783	2021-07-13	Armed Forces Bill &#8212; Clause 7 - Concurrent jurisdiction
+36784	2021-07-13	Armed Forces Bill &#8212; Clause 8 - Armed forces covenant
+36785	2021-07-13	Deferred Divisions
+35513	2021-07-14	Planning and Local Representation
+36786	2021-07-14	Health and Care Bill
+36787	2021-07-14	Health and Care Bill
+36788	2021-07-20	Nationality and Borders Bill &#8212; [2nd Allocated Day]
+36789	2021-07-20	Nationality and Borders Bill &#8212; [2nd Allocated Day]
+36790	2021-09-06	National Insurance Contributions Bill &#8212; New Clause 4 - Employment allowance for national insurance contributions
+36791	2021-09-07	Elections Bill
+36792	2021-09-07	Elections Bill
+36793	2021-09-08	Health and Social Care Levy
+36794	2021-09-08	Health and Social Care Levy
+34868	2021-09-10	Speaker&#8217;s Statement
+36795	2021-09-13	Dissolution and Calling of Parliament Bill (Instruction)
+36796	2021-09-13	Dissolution and Calling of Parliament Bill &#8212; Clause 2 - Revival of prerogative powers to dissolve Parliament and to call a new Parliament
+36797	2021-09-13	Dissolution and Calling of Parliament Bill &#8212; Clause 2 - Revival of prerogative powers to dissolve Parliament and to call a new Parliament
+36798	2021-09-14	Health and Social Care Levy Bill
+36799	2021-09-14	Health and Social Care Levy Bill
+36800	2021-09-14	Health and Social Care Levy Bill &#8212; Clause 2 - Destination of proceeds of health and social care levy
+36801	2021-09-14	Health and Social Care Levy Bill &#8212; New Clause 3 - Review of revenue effects of Act
+36802	2021-09-14	Health and Social Care Levy Bill &#8212; New Clause 5 - Review of equality impact of Act
+36803	2021-09-14	Health and Social Care Levy Bill &#8212; New Clause 5 - Review of equality impact of Act
+35532	2021-09-15	Universal Credit and Working Tax Credits
+36804	2021-09-15	Withdrawal from Afghanistan: Joint Committee
+36805	2021-09-20	Social Security (Up-rating of Benefits) Bill
+36806	2021-09-20	Social Security (Up-rating of Benefits) Bill
+36807	2021-09-20	Social Security (Up-rating of Benefits) Bill &#8212; New Clause 2 - Review
+36808	2021-09-20	Social Security (Up-rating of Benefits) Bill &#8212; New Clause 2 - Review
+36809	2021-09-20	Elections Bill (Instruction)
+36810	2021-09-21	Working People&#8217;s Finances: Government Policy
+36811	2021-09-22	Compensation (London Capital &amp; Finance plc and Fraud Compensation Fund) Bill &#8212; Clause 1 - Compensation payments to customers of London Capital &amp; Finance PLC
+36812	2021-09-22	Subsidy Control Bill
+36813	2021-10-19	Independent Expert Panel Recommendations for Sanctions and the Recall of MPs Act 2015
+36814	2021-10-19	Supporting Small Business
+36815	2021-10-20	Environment Bill &#8212; Clause 2 - Environmental targets: particulate matter
+36816	2021-10-20	Environment Bill &#8212; Clause 4 - Environmental targets: effect
+36817	2021-10-20	Environment Bill &#8212; Clause 18 - Policy statement on environmental principles
+36818	2021-10-20	Environment Bill &#8212; Clause 24 - Guidance on the OEP&#8217;s enforcement policy and functions
+36819	2021-10-20	Environment Bill &#8212; After Clause 72 - Protection of pollinators from pesticides
+36820	2021-10-20	Environment Bill &#8212; After Clause 78 - Storm overflows
+36821	2021-10-20	Environment Bill &#8212; After Clause 106 - Habitats Regulations: limits on powers to amend
+36822	2021-10-20	Environment Bill &#8212; After Clause 106 - Habitats Regulations: limits on powers to amend
+35552	2021-10-22	Prayers
+35553	2021-10-22	Employment and Trade Union Rights (Dismissal and Re-engagement) Bill
+36823	2021-10-26	Judicial Review and Courts Bill
+36824	2021-11-02	6. Surcharge on banking companies
+36825	2021-11-02	7. Income tax (attribution of trade profits etc to a tax year)
+35557	2021-11-03	Committee on Standards
+35558	2021-11-03	Committee on Standards
+35559	2021-11-03	Nuclear Energy (Financing) Bill
+36826	2021-11-03	Nuclear energy (financing) Bill (PROGRAMME)
+36827	2021-11-08	Environment Bill &#8212; Clause 24 - Guidance on the OEP&#8217;s Enforcement Policy and Functions
+36828	2021-11-08	Environment Bill &#8212; After Clause 78 - Storm overflows
+35563	2021-11-08	Telecommunications (Security) Bill &#8212; After Clause 23 - Network Diversification
+36829	2021-11-08	Telecommunications (Security) Bill &#8212; After Clause 23 - Network Diversification
+36830	2021-11-15	Social Security (Up-rating of Benefits) Bill &#8212; Clause 1 - Up-rating of state pension and certain other benefits following review in tax year 2021-22
+36831	2021-11-15	Social Security (Up-rating of Benefits) Bill &#8212; Clause 1 - Up-rating of state pension and certain other benefits following review in tax year 2021-22
+36832	2021-11-16	Finance (No. 2) Bill
+36833	2021-11-16	Finance (No. 2) Bill
+36834	2021-11-17	Strengthening Standards in Public Life
+36835	2021-11-17	Strengthening Standards in Public Life
+35571	2021-11-22	Health and Care Bill &#8212; New Clause 4 - Packaging and labelling of nicotine products
+36836	2021-11-22	Health and Care Bill &#8212; New Clause 16 - Annual report on alcohol treatment services: assessment of outcomes
+36837	2021-11-22	Health and Care Bill &#8212; New Clause 49 - Cap on Care Costs for charging Purposes
+36838	2021-11-22	Health and Care Bill &#8212; Clause 69 - Procurement regulations
+35575	2021-11-22	Health and Care Bill &#8212; Schedule 2 - Integrated care boards: constitution etc
+36839	2021-11-23	Health and Care Bill &#8212; New Clause 12
+36840	2021-11-23	Health and Care Bill &#8212; Clause 34 - Report on assessing and meeting workforce needs
+36841	2021-11-23	Health and Care Bill &#8212; Clause 39 - Reconfiguration of services: intervention powers
+36842	2021-11-23	Health and Care Bill &#8212; Clause 135 - Regulations
+36843	2021-11-23	Health and Care Bill &#8212; Clause 138 - Commencement
+36844	2021-11-30	Public Health
+36845	2021-11-30	Public Health
+36846	2021-11-30	Conduct of the Right Hon. Member for Uxbridge and South Ruislip
+35586	2021-12-01	Finance (No. 2) Bill &#8212; Clause 6 - Rate of surcharge and surcharge allowance
+35587	2021-12-01	Finance (No. 2) Bill &#8212; New Clause 10 - Assessment of annual investment allowance
+35588	2021-12-01	Finance (No. 2) Bill &#8212; New Clause 5 - Reviews of Economic Crime (Anti-money Laundering) Levy
+35589	2021-12-01	Finance (No. 2) Bill &#8212; New Clause 7 - Reporting on provisions relating to publication of information about tax avoidance schemes
+35590	2021-12-03	Prayers
+35591	2021-12-03	Copyright (Rights and Remuneration of Musicians, etc.) Bill
+36847	2021-12-06	Armed Forces Bill &#8212; Clause 7 - Concurrent jurisdiction
+36848	2021-12-06	Armed Forces Bill &#8212; Clause 8 - Armed Forces Covenant
+36849	2021-12-07	Nationality and Borders Bill &#8212; New Clause 2 - Acquisition by registration: Descendants of those born on British Indian Ocean Territory
+36850	2021-12-07	Nationality and Borders Bill &#8212; New Clause 8 - Children registering as British citizens: fees &#8212; 
+36851	2021-12-07	Nationality and Borders Bill &#8212; New Clause 50 - Advertising assistance for unlawful immigration to the United Kingdom
+35597	2021-12-07	Nationality and Borders Bill &#8212; New Clause 52 - Non-UK service personnel: waiver of fees
+36852	2021-12-07	Nationality and Borders Bill &#8212; Clause 39 - Illegal entry and similar offences
+36853	2021-12-07	Nationality and Borders Bill &#8212; Schedule 6 - Maritime Enforcement
+35600	2021-12-08	Nationality and Borders Bill &#8212; New Clause 3 - Offence of human trafficking for sexual exploitation
+35601	2021-12-08	Nationality and Borders Bill &#8212; New Clause 6 - Exemption for child victims of modern slavery, exploitation or trafficking
+36854	2021-12-08	Nationality and Borders Bill &#8212; Clause 58 - Late compliance with slavery or trafficking information notice: damage to credibility
+36855	2021-12-08	Nationality and Borders Bill &#8212; Clause 82 - Commencement
+35604	2021-12-08	Rail Investment and Integrated Rail Plan
+35605	2021-12-10	Prayers - <i> [Mr Speaker in the Chair] </i>
+36856	2021-12-13	Subsidy Control Bill &#8212; New Clause 1 - Exemption: agriculture
+36857	2021-12-13	Subsidy Control Bill &#8212; Clause 11 - Subsidies and schemes of interest or particular interest
+36858	2021-12-13	Subsidy Control Bill &#8212; Schedule 1 - The subsidy control principles
+35609	2021-12-14	Public Health
+36859	2021-12-14	Public Health
+36860	2021-12-14	Public Health
+36861	2022-01-10	Nuclear Energy (Financing) Bill &#8212; Clause 1 - Key definitions for Part 1
+36862	2022-01-10	Nuclear Energy (Financing) Bill &#8212; Clause 6 - Licence modifications: designated nuclear companies
+36863	2022-01-10	Nuclear Energy (Financing) Bill &#8212; Clause 7 - Licence modifications: relevant licensee nuclear companies
+36864	2022-01-10	Nuclear Energy (Financing) Bill &#8212; Clause 7 - Licence modifications: relevant licensee nuclear companies
+36865	2022-01-10	Charter for Budget Responsibility and Welfare Cap
+36866	2022-01-10	Welfare Cap
+36867	2022-01-11	Household Energy Bills: VAT
+35619	2022-01-11	Reducing Costs for Businesses
+36868	2022-01-17	Elections Bill &#8212; New Clause 1 - Voting from age 16 in parliamentary elections
+36869	2022-01-17	Elections Bill &#8212; New Clause 2 - Permissible donors
+36870	2022-01-17	Elections Bill &#8212; Clause 1 - Voter identification
+36871	2022-01-17	Elections Bill &#8212; Clause 26 - Joint campaigning by registered parties and third parties
+36872	2022-01-17	Elections Bill &#8212; Schedule 10 - Illegal practices
+35625	2022-01-19	Building Safety Bill &#8212; New Clause 3
+35626	2022-01-21	Prayers - <i> [Mr Speaker in the Chair] </i>
+35627	2022-01-24	Cost of Living Increases
+36873	2022-01-24	Leasehold Reform (Ground Rent) Bill [Lords] &#8212; New Clause 1 - Ground rent for existing long leases
+36874	2022-01-25	Judicial Review and Courts Bill &#8212; New Clause 4 - Publicly funded legal representation for bereaved people at inquests
+36875	2022-01-25	Judicial Review and Courts Bill &#8212; Clause 1 - Quashing orders
+36876	2022-01-25	Judicial Review and Courts Bill &#8212; Clause 2 - Exclusion of review of Upper Tribunal&#8217;s permission-to-appeal decisions
+36877	2022-01-25	Judicial Review and Courts Bill &#8212; Clause 3 - Automatic online conviction and penalty for certain summary offences
+36878	2022-01-25	Judicial Review and Courts Bill &#8212; Clause 9 - Powers to proceed if accused absent from allocation hearing
+36879	2022-01-25	Judicial Review and Courts Bill &#8212; Clause 21 - The Online Procedure Rule Committee
+36880	2022-01-25	Judicial Review and Courts Bill &#8212; Schedule 5 - Employment tribunal procedure rules: further provision
+35636	2022-01-26	Delegated Legislation &#8212; Trade Unions
+35637	2022-01-26	Delegated Legislation &#8212; Trade Unions
+36881	2022-01-31	Advanced Research and Invention Agency Bill &#8212; Clause 2 - ARIA&#8217;s functions
+35639	2022-02-01	Oil and Gas Producers: Windfall Tax
+36882	2022-02-02	Finance (No. 2) Bill &#8212; New Clause 17 - Impact of Act on tackling climate change
+36883	2022-02-02	Finance (No. 2) Bill &#8212; New Clause 27 - Review of Economic crime (anti-money laundering) levy
+36884	2022-02-02	Finance (No. 2) Bill &#8212; Clause 6 - Rate of surcharge and surcharge allowance
+36885	2022-02-02	Finance (No. 2) Bill &#8212; Schedule 5 - Insurance contracts: change in accounting standards
+35644	2022-02-04	Prayers - <i> [Mr Speaker in the Chair] </i>
+36886	2022-02-07	Social Security and Pensions
+36887	2022-02-09	Deferred Division &#8212; Financial Services
+36888	2022-02-21	Skills and Post-16 Education Bill [Lords] &#8212; New Clause 14 - Recognition of skills in the energy sector
+36889	2022-02-21	Skills and Post-16 Education Bill [Lords] &#8212; Clause 2 - Designation of employer representative bodies
+36890	2022-02-21	Skills and Post-16 Education Bill [Lords] &#8212; Clause 14 - Information about technical education and training: access to English schools
+36891	2022-02-22	Public Service Pensions and Judicial Offices Bill [Lords] &#8212; New Clause 1 - Guidance to public service pension scheme managers on investment decisions
+36892	2022-02-22	Public Service Pensions and Judicial Offices Bill [Lords] &#8212; New Clause 8 - Compensation of losses incurred by closure of legacy schemes
+35652	2022-02-23	Non-commissioned Exempt Accommodation
+35653	2022-02-25	Prayers - <i> [Mr Speaker in the Chair] </i>
+36893	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 7 - Duties to collaborate and plan to prevent and reduce serious violence
+36894	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 141 - Serious violence reduction orders: piloting
+36895	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; After Clause 170 - Offence of Requiring or Accepting Sexual Relations as a Condition of Accommodation
+36896	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 139 - Secure 16 to 19 Academies
+36897	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; After Clause 54 - Accountability of public authorities: duties on police workforce
+36898	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 56 - Imposing Conditions on Public Assemblies
+36899	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 58 - Obstruction of vehicular access to Parliament
+36900	2022-02-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 61 - Imposing conditions on one-person protests
+36901	2022-03-01	National Insurance Contributions Bill &#8212; Clause 2 - Freeport conditions
+36902	2022-03-01	National Insurance Contributions Bill &#8212; Clause 7 - Veteran conditions
+36903	2022-03-02	Deferred Divisions &#8212; Social Security
+36904	2022-03-02	Deferred Divisions &#8212; Social Security
+36905	2022-03-07	Economic Crime (Transparency and Enforcement) Bill &#8212; New Clause 2 - Report on funding of enforcement agencies
+35667	2022-03-07	Economic Crime (Transparency and Enforcement) Bill &#8212; New Clause 7 - 38A Further reforms to Companies House
+36906	2022-03-07	Economic Crime (Transparency and Enforcement) Bill &#8212; New Clause 29 - Asset freezing in respect of individuals considered for sanctions
+36907	2022-03-09	Deferred Division &#8212; Environmental Protection
+36908	2022-03-14	Dissolution and Calling of Parliament Bill &#8212; Clause 2 - Revival of prerogative powers to dissolve Parliament and to call a new Parliament
+36909	2022-03-14	Professional Qualifications Bill [Lords] &#8212; Clause 7 - Assistance Centre
+36910	2022-03-14	Professional Qualifications Bill [Lords] &#8212; Clause 16 - Authority by whom regulations may be made
+35673	2022-03-14	Animal Welfare (Sentience) Bill [Lords] &#8212; New Clause 1 - Duty to prepare an Animal Sentience Strategy
+35674	2022-03-14	Animal Welfare (Sentience) Bill [Lords] &#8212; New clause 3 - Report on the use of sentient animals in animal experimentation in government policy
+35675	2022-03-14	Animal Welfare (Sentience) Bill [Lords] &#8212; New Clause 5 - Report on the impact of Government policy on river pollution on sentient animals
+35676	2022-03-18	Prayers - <i> [Mr Speaker in the Chair] </i>
+35677	2022-03-21	P&amp;O Ferries and Employment Rights
+36911	2022-03-22	Nationality and Borders Bill &#8212; Clause 9 - Notice of decision to deprive a person of citizenship
+36912	2022-03-22	Nationality and Borders Bill &#8212; Before clause 11
+36913	2022-03-22	Nationality and Borders Bill &#8212; Clause 11 - Differential treatment of refugees
+35681	2022-03-22	Nationality and Borders Bill &#8212; After Clause 12 - Changes to the Immigration Act 1971
+36914	2022-03-22	Nationality and Borders Bill &#8212; Clause 28 - Accelerated detained appeals
+36915	2022-03-22	Nationality and Borders Bill &#8212; After Clause 37 - Immigration rules: entry to seek asylum and join family
+36916	2022-03-22	Nationality and Borders Bill &#8212; After Clause 37 - Refugee resettlement schemes
+36917	2022-03-22	Nationality and Borders Bill &#8212; Clause 39 - Article 33(2): particularly serious crime
+36918	2022-03-22	Nationality and Borders Bill &#8212; After Clause 56 - Age assessments: restrictions
+36919	2022-03-22	Nationality and Borders Bill &#8212; Clause 58 - Appeals relating to age assessments
+36920	2022-03-22	Nationality and Borders Bill &#8212; Clause 62 - Identified potential victims etc: disqualification from protection
+36921	2022-03-22	Nationality and Borders Bill &#8212; Clause 64 - Identification of Potential Victims of Slavery or Human Trafficking
+36922	2022-03-22	Nationality and Borders Bill &#8212; Clause 71 - Electronic travel authorisations
+36923	2022-03-28	Skills and Post-16 Education Bill [Lords] &#8212; Clause 7 - Additional powers to approve technical education qualifications
+36924	2022-03-28	Police, Crime, Sentencing and Courts Bill &#8212; After Clause 54 - Intimidatory offences aggravated by sex or gender
+36925	2022-03-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 55 - Imposing Conditions on Public Assemblies
+36926	2022-03-28	Police, Crime, Sentencing and Courts Bill &#8212; Clause 56 - Imposing conditions on public assemblies
+35695	2022-03-29	Delegated Legislation &#8212; Social Security
+36927	2022-03-30	Health and Care Bill &#8212; After Clause 148 - Tobacco products statutory scheme: consultation
+36928	2022-03-30	Health and Care Bill &#8212; After Clause 148 - Permitted Locations for Abortion Treatment
+36929	2022-03-30	Health and Care Bill &#8212; Clause 35 - Report on assessing and meeting workforce needs
+36930	2022-03-30	Health and Care Bill &#8212; Clause 40 - Reconfiguration of services: intervention powers
+36931	2022-03-30	Health and Care Bill &#8212; Clause 140 - Cap on care costs for charging purposes
+36932	2022-03-30	Health and Care Bill &#8212; After Clause 148 - Dispute resolution in children&#8217;s palliative care
+36933	2022-04-20	Building Safety Bill &#8212; Before Clause 117 - Meaning of &#8220;relevant building&#8221;
+36934	2022-04-20	Building Safety Bill &#8212; Before Clause 117 - Meaning of &#8220;relevant building&#8221;
+36935	2022-04-20	Building Safety Bill &#8212; Before Clause 117 - Meaning of &#8220;relevant building&#8221;
+36936	2022-04-20	Building Safety Bill &#8212; Before Clause 117 - Meaning of &#8220;relevant building&#8221;
+36937	2022-04-20	Nationality and Borders Bill
+36938	2022-04-20	Nationality and Borders Bill &#8212; Before Clause 11 - Interpretation of Part 2
+36939	2022-04-20	Nationality and Borders Bill &#8212; Clause 11 - Differential treatment of refugees
+36940	2022-04-20	Nationality and Borders Bill &#8212; After Clause 12 - Changes to the Immigration Act 1971
+36941	2022-04-20	Nationality and Borders Bill &#8212; After Clause 15 - Safe third State: commencement
+36942	2022-04-20	Nationality and Borders Bill &#8212; Removal of asylum seeker to safe country
+36943	2022-04-20	Nationality and Borders Bill &#8212; After Clause 37 - Immigration Rules: entry to seek asylum and join family
+36944	2022-04-20	Nationality and Borders Bill &#8212; After Clause 37 - Refugee resettlement schemes
+36945	2022-04-20	Nationality and Borders Bill &#8212; Clause 39 - Illegal entry and similar offences
+36946	2022-04-20	Nationality and Borders Bill &#8212; Clause 40 - Assisting unlawful immigration or asylum seeker
+36947	2022-04-20	Nationality and Borders Bill &#8212; Clause 62 - Identified potential victims etc: disqualification from protectionClause 62
+36948	2022-04-20	Nationality and Borders Bill &#8212; Before Clause 64 - Confirmed victims in England and Wales: assistance and support
+36949	2022-04-25	Police, Crime, Sentencing and Courts Bill &#8212; Clause 55 - Imposing conditions on public processions
+36950	2022-04-25	Police, Crime, Sentencing and Courts Bill &#8212; Clause 56 - Imposing conditions on public assemblies
+36951	2022-04-25	Health and Care Bill &#8212; Clause 35 - Report on assessing and meeting workforce needs
+36952	2022-04-25	Health and Care Bill &#8212; Clause 35 - Report on assessing and meeting workforce needs
+36953	2022-04-26	Judicial Review and Courts Bill &#8212; Clause 1 - Quashing orders
+36954	2022-04-26	Judicial Review and Courts Bill &#8212; Clause 2 - Exclusion of review of Upper Tribunal&#8217;s permission-to-appeal decisions
+36955	2022-04-26	Judicial Review and Courts Bill &#8212; After Clause 42 - Publicly funded legal representation for bereaved people at inquests
+36956	2022-04-26	Nationality and Borders Bill &#8212; Before Clause 11 - Compliance with the Refugee Convention
+36957	2022-04-26	Nationality and Borders Bill &#8212; Before Clause 11 - Compliance with the Refugee Convention
+36958	2022-04-26	Nationality and Borders Bill &#8212; Before Clause 11 - Compliance with the Refugee Convention
+35728	2022-04-27	Elections Bill
+35729	2022-04-27	Elections Bill &#8212; Clause 15 - Strategy and policy statement
+35730	2022-04-27	Elections Bill &#8212; Schedule 1 - Voter Identification
+36959	2022-05-17	Tackling Short-term and Long-term Cost of Living Increases
+36960	2022-05-18	Achieving Economic Growth
+36961	2022-05-18	Achieving Economic Growth
+36962	2022-05-18	Achieving Economic Growth
+36963	2022-05-18	Achieving Economic Growth
+36964	2022-05-23	Public Order Bill
+36965	2022-05-23	Public Order Bill
+36966	2022-05-24	Northern Ireland Troubles (Legacy and Reconciliation) Bill
+36249	2022-05-25	Product Security and Telecommunications Infrastructure Bill &#8212; Clause 59 - Upgrading and sharing of apparatus: subsisting agreements
+36251	2022-06-07	Standards in Public Life
+36967	2022-06-13	Higher Education (Freedom of Speech) Bill &#8212; New Clause 4 - Appointment of the Director for Freedom of Speech and Academic Freedom
+36968	2022-06-13	Higher Education (Freedom of Speech) Bill &#8212; Clause 1 - Duties of registered higher education providers
+36969	2022-06-14	HM Passport Office Backlog
+36970	2022-06-15	Rail Strikes
+36971	2022-06-15	Rail Strikes
+36260	2022-06-20	High Speed Rail (Crewe - Manchester) Bill
+36261	2022-06-21	Adviser on Ministerial Interests
+36262	2022-06-22	Deferred Division &#8212; Health and Personal Social Services
+36304	2022-06-27	Northern Ireland Protocol Bill
+36305	2022-06-29	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; Clause 18 - Immunity from Prosecution
+36306	2022-06-29	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; Clause 18 - Immunity from Prosecution
+36307	2022-06-29	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; Clause 18 - Immunity from Prosecution
+36972	2022-07-04	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; Clause 34 - Grant of immunity: prohibition of criminal enforcement action
+36973	2022-07-04	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; Clause 39 - Inquests, investigations and inquiries
+36974	2022-07-04	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; Clause 39 - Inquests, investigations and inquiries
+36975	2022-07-04	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; New Clause 5 - Revocation of Immunity (No. 2)
+36976	2022-07-04	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; New Clause 4 - Offence of glorifying terrorism: Northern Ireland
+36977	2022-07-04	Northern Ireland Troubles (Legacy and Reconciliation) Bill &#8212; Schedule 4A - Exempt Offences
+36978	2022-07-04	Delegated Legislation &#8212; Modern Slavery
+36979	2022-07-11	Energy (Oil and Gas) Profits Levy Bill &#8212; Clause 2 - Additional expenditure treated as incurred for purposes of section 1
+36980	2022-07-11	Energy (Oil and Gas) Profits Levy Bill &#8212; Clause 2 - Additional expenditure treated as incurred for purposes of section 1
+36981	2022-07-11	Energy (Oil and Gas) Profits Levy Bill &#8212; New Clause 3 - Review of impact of earlier start date of the levy
+36982	2022-07-11	Employment Agencies and Trade Unions
+36983	2022-07-11	Trade Unions
+36984	2022-07-12	Online Safety Bill &#8212; New Clause 3 - Priority illegal content: violence against women and girls
+36985	2022-07-12	Online Safety Bill &#8212; Schedule 7 - Priority offences
+36986	2022-07-12	Online Safety Bill &#8212; New Clause 14 - Providers&#8217; judgements about the status of content
+36987	2022-07-12	Online Safety Bill &#8212; New Clause 7 - Duties regarding user-generated pornographic content: regulated services
+36988	2022-07-12	Online Safety Bill &#8212; Clause 182 - Parliamentary procedure for regulations
+36989	2022-07-13	Northern Ireland Protocol Bill &#8212; Clause 1 - Overview of main provisions
+36990	2022-07-13	Northern Ireland Protocol Bill &#8212; Clause 1 - Overview of main provisions
+36991	2022-07-13	Northern Ireland Protocol Bill &#8212; Clause 1 - Overview of main provisions
+36992	2022-07-13	Northern Ireland Protocol Bill &#8212; New Clause 10 - Condition prior to limitation of the Northern Ireland Protocol
+36993	2022-07-13	Northern Ireland Protocol Bill &#8212; Clause 4 - Movement of goods (including customs): excluded Protocol provision
+36994	2022-07-18	Confidence in Her Majesty&#8217;s Government
+36344	2022-07-19	Northern Ireland Protocol Bill &#8212; Clause 7 - Regulation of goods: option to choose between dual routes
+36345	2022-07-19	Northern Ireland Protocol Bill &#8212; Clause 9 - Regulation of goods: new law
+36346	2022-07-19	Northern Ireland Protocol Bill &#8212; New Clause 15 - UK-EU Joint Committee: report to Parliament
+36995	2022-07-20	Northern Ireland Protocol Bill &#8212; Clause 13 - Implementation, application, supervision and enforcement of the Protocol
+36996	2022-07-20	Northern Ireland Protocol Bill &#8212; Clause 13 - Implementation, application, supervision and enforcement of the Protocol
+36997	2022-07-20	Northern Ireland Protocol Bill &#8212; Clause 26
+36998	2022-07-20	Northern Ireland Protocol Bill &#8212; New Clause 12 - Adjudications of matters pertaining to international law
+36999	2022-07-20	Northern Ireland Protocol Bill &#8212; New Clause 12 - Adjudications of matters pertaining to international law
+37000	2022-09-06	Trade (Australia and New Zealand) Bill
+36565	2022-10-11	Health and Social Care Levy (Repeal) Bill &#8212; New Clause 1 - Review of effects of Act on revenue sources of health and social care expenditure
+37001	2022-10-12	Identity and Language (Northern Ireland) Bill [Lords]
+37002	2022-10-17	Energy Prices Bill &#8212; New Clause 3 - Report on additional expenditure treated as incurred for purposes of section 1 of the Energy (Oil and Gas) Profits Levy Act 2022
+37003	2022-10-17	Energy Prices Bill &#8212; Manuscript New Clause 18 - Energy support after April 2023
+37004	2022-10-17	Energy Prices Bill &#8212; Schedule 6 - Time limits on the exercise of certain powers under this Act
+36573	2022-10-18	Public Order Bill &#8212; New Clause 5 - Definition of &#8220;serious disruption&#8221;
+36574	2022-10-18	Public Order Bill &#8212; New Clause 11 - Offence of interference with access to or provision of abortion services
+36572	2022-10-18	Public Order Bill &#8212; New Clause 4 - Injunction to prevent serious disruption to effective movement of essential goods or services
+36581	2022-10-18	Public Order Bill &#8212; Clause 16 - Serious disruption prevention order made on conviction
+36582	2022-10-18	Public Order Bill &#8212; New Schedule 1 - Injunctions in Secretary of State proceedings: powers to remand
+36577	2022-10-19	Economic Responsibility and a Plan for Growth
+37005	2022-10-19	Ban on Fracking for Shale Gas Bill
+36584	2022-10-21	Prayers
+37006	2022-10-24	Stamp Duty Land Tax (Reduction)
+37007	2022-10-24	Stamp Duty Land Tax (Reduction)
+37008	2022-10-24	Stamp Duty Land Tax (Reduction) Bill
+37009	2022-10-25	NHS Prescriptions (Drug Tariff Labelling)
+37010	2022-10-25	Retained EU Law (Revocation and Reform) Bill
+37011	2022-10-25	Retained EU Law (Revocation and Reform) Bill
+37012	2022-10-25	Other proceedings
+37013	2022-10-25	Retained Eu Law (Revocation and Reform) Bill: Money
+37014	2022-10-25	Retained Eu Law (Revocation and Reform) Bill: Ways and Means
+36607	2022-10-26	Identity and Language (Northern Ireland) Bill [Lords] &#8212; Clause 1 - National and cultural identity
+36604	2022-10-26	Identity and Language (Northern Ireland) Bill [Lords] &#8212; Clause 3 - The Ulster Scots and the Ulster British Tradition
+36605	2022-10-26	Identity and Language (Northern Ireland) Bill [Lords] &#8212; Clause 6 - Concurrent powers and powers of direction
+36606	2022-10-28	Speaker&#8217;s Statement
+37015	2022-10-31	Genetic Technology (Precision Breeding) Bill &#8212; New Clause 9 - Power of the Scottish Parliament to legislate on the marketing of precision bred organisms
+37016	2022-10-31	Genetic Technology (Precision Breeding) Bill &#8212; Clause 1 - Precision bred organism
+37017	2022-10-31	Genetic Technology (Precision Breeding) Bill &#8212; Clause 3 - Restrictions on release of precision bred organism in England
+37018	2022-10-31	Genetic Technology (Precision Breeding) Bill &#8212; Clause 13 - Issue of precision bred animal marketing authorisation
+37019	2022-10-31	Product Security and Telecommunications Infrastructure Bill &#8212; After Clause 74 - Independent review of the electronic communications code
+36618	2022-11-02	Scottish Independence and the Scottish Economy
+36619	2022-11-08	State Pension Triple Lock
+37020	2022-11-08	Papers Relating to the Home Secretary
+37021	2022-11-16	National Security Bill &#8212; New clause 3 - Reviews of Parts 1, 4 and 5
+36627	2022-11-16	National Security Bill &#8212; Clause 27 - Offences under Part 2 of the Serious Crime Act 2007
+37022	2022-11-16	National Security Bill &#8212; Schedule 13 - Damages at risk of being used for the purposes of terrorism
+37023	2022-11-16	National Security Bill &#8212; Schedule 14 - Minor and Consequential Amendments
+36629	2022-11-18	Prayers
+36631	2022-11-22	3. Basic rate limit and personal allowance for tax years 2026-27 and 2027-28
+37024	2022-11-23	Levelling-up and Regeneration Bill &#8212; New Clause 41 - Duty to provide sufficient resources to Combined Authorities and Combined County Authorities
+37025	2022-11-23	Levelling-up and Regeneration Bill &#8212; New Clause 46 - Review into business rates system
+37026	2022-11-23	Levelling-up and Regeneration Bill &#8212; New Clause 84 - Levelling-up mission: adult literacy
+37027	2022-11-23	Levelling-up and Regeneration Bill &#8212; Clause 4 - Changes to mission progress methodology and metrics or target dates
+37028	2022-11-28	Finance Bill
+37029	2022-11-28	Finance Bill
+37030	2022-11-29	Privilege
+37031	2022-11-30	Finance Bill &#8212; Clause 5 - Basic rate limit and personal allowance for tax years 2026 and 2027-28
+37032	2022-11-30	Finance Bill &#8212; Clause 5 - Basic rate limit and personal allowance for tax years 2026 and 2027-28
+37033	2022-11-30	Finance Bill &#8212; New Clause 2 - Review of revenue from the Energy (Oil and Gas) Profits Levy
+37034	2022-11-30	Finance Bill &#8212; New Clause 3 - Research and Development tax relief policy
+36657	2022-11-30	Finance Bill &#8212; New Clause 3 - Research and Development tax relief policy
+37049	2022-12-05	Online Safety Bill &#8212; New Clause 16 - Communication offence for encouraging or assisting self-harm
+37050	2022-12-05	Online Safety Bill &#8212; New Clause 17 - Liability of directors for compliance failure
+37067	2022-12-05	Online Safety Bill &#8212; New Clause 28 - Establishment of Advocacy Body
+37052	2022-12-05	Consideration following re-committal and Third Reading
+37054	2022-12-06	NHS Workforce
+37055	2022-12-07	Financial Services and Markets Bill &#8212; New Clause 1 - National strategy on financial fraud
+37063	2022-12-07	Financial Services and Markets Bill &#8212; New Clause 2 - Local community access to essential in-person banking services
+37057	2022-12-07	Financial Services and Markets Bill &#8212; New Clause 7 - Access to Cash: Guaranteed Minimum Provision
+37058	2022-12-07	Deferred Divisions &#8212; Landlord and Tenant
+37059	2022-12-07	Deferred Divisions &#8212; Local Government
+37060	2022-12-07	Deferred Divisions &#8212; Local Government
+37061	2022-12-07	Deferred Divisions &#8212; Police
+37064	2022-12-12	Trade (Australia and New Zealand) Bill &#8212; New Clause 2 - Assessment of impact on farmers
+37065	2022-12-12	Trade (Australia and New Zealand) Bill
+37145	2022-12-12	Trade (Australia and New Zealand) Bill &#8212; Clause 1 - Power to implement government procurement Chapters
+37146	2022-12-12	Trade (Australia and New Zealand) Bill &#8212; Clause 1 - Power to implement government procurement Chapters
+37147	2022-12-12	Council Tax
+37148	2022-12-12	Standards: Code of Conduct and Guide to the Rules
+37149	2022-12-12	Standards: Code of Conduct and Guide to the Rules
+37150	2022-12-13	Levelling-up and Regeneration Bill &#8212; New Clause 98 - Duty with regard to climate change
+37151	2022-12-13	Levelling-up and Regeneration Bill &#8212; New Clause 120 - New use classes for second homes
+37152	2022-12-13	Levelling-up and Regeneration Bill &#8212; Clause 83 - Role of development plan and national policy in England
+37153	2022-12-13	Levelling-up and Regeneration Bill &#8212; Schedule 11 - Infrastructure Levy
+37154	2022-12-14	Asylum Seekers (Removal to Safe Countries)
+37155	2022-12-14	Scotland&#8217;s Future
+37156	2022-12-14	Deferred Division &#8212; Architects
+37157	2023-01-10	Stamp Duty Land Tax (Reduction) Bill &#8212; Clause 1 - Reduction of SDLT on acquisition of residential property
+37158	2023-01-10	Stamp Duty Land Tax (Reduction) Bill &#8212; New Clause 3 - Review: second homes in National Parks and Areas of Natural Beauty
+37159	2023-01-10	Stamp Duty Land Tax (Reduction) Bill &#8212; New Clause 3 - Review: second homes in National Parks and Areas of Natural Beauty
+37160	2023-01-11	Fair Taxation of Schools and Education Standards Committee
+37161	2023-01-11	NHS: Long-term Strategy
+37162	2023-01-11	NHS: Long-term Strategy
+37163	2023-01-16	Strikes (Minimum Service Levels) Bill
+37164	2023-01-16	Strikes (Minimum Service Levels) Bill
+37165	2023-01-16	Strikes (Minimum Service Levels) Bill: Programme
+37166	2023-01-16	Strikes (Minimum Service Levels) Bill (Money)
+37167	2023-01-17	Gender Recognition Reform (Scotland) Bill: Section 35 Power
+37168	2023-01-17	Online Safety Bill &#8212; New Clause 4 - Safety duties protecting adults and society: minimum standards for terms of service
+37169	2023-01-17	Online Safety Bill &#8212; Clause 12 - User empowerment duties
+37170	2023-01-18	Retained EU Law (Revocation and Reform) Bill &#8212; Clause 1 - Sunset of EU-derived subordinate legislation and retained direct EU legislation
+37171	2023-01-18	Retained EU Law (Revocation and Reform) Bill &#8212; Clause 1 - Sunset of EU-derived subordinate legislation and retained direct EU legislation
+37172	2023-01-18	Retained EU Law (Revocation and Reform) Bill &#8212; Clause 1 - Sunset of EU-derived subordinate legislation and retained direct EU legislation
+37173	2023-01-18	Retained EU Law (Revocation and Reform) Bill &#8212; Clause 1 - Sunset of EU-derived subordinate legislation and retained direct EU legislation
+37174	2023-01-18	Retained EU Law (Revocation and Reform) Bill &#8212; New Schedule 1 - &#8220;Assimilated law&#8221;: consequential amendments
+37175	2023-01-24	Economic Crime and Corporate Transparency Bill &#8212; New Clause 22 - Person convicted under National Minimum Wage Act not to be appointed as director
+37176	2023-01-24	Economic Crime and Corporate Transparency Bill &#8212; New Clause 34 - Report on the authorisation of foreign corporate service providers
+37177	2023-01-24	Economic Crime and Corporate Transparency Bill &#8212; New Clause 36 - Integrity of the register
+37178	2023-01-25	Economic Crime and Corporate Transparency Bill &#8212; New Clause 3 - Home Office review of the Tier 1 (Investor) visa scheme: publication
+37179	2023-01-25	Economic Crime and Corporate Transparency Bill &#8212; New Clause 26 - Beneficial owners in overseas territories
+37180	2023-01-25	Economic Crime and Corporate Transparency Bill &#8212; New Clause 27 - Compensation for Victims of Economic Crime
+37181	2023-01-25	Deferred Divisions &#8212; Environmental Protection
+37182	2023-01-25	Deferred Divisions &#8212; Environmental Protection
+37183	2023-01-25	Deferred Divisions &#8212; Agriculture
+37184	2023-01-25	Deferred Divisions &#8212; Environmental Protection
+37185	2023-01-25	Deferred Divisions &#8212; Environmental Protection
+37186	2023-01-30	Strikes (Minimum Service Levels) Bill &#8212; Clause 5 - Commencement
+37187	2023-01-30	Strikes (Minimum Service Levels) Bill &#8212; Schedule - Minimum Service Levels for Certain Strikes
+37188	2023-01-30	Strikes (Minimum Service Levels) Bill &#8212; Schedule - Minimum Service Levels for Certain Strikes
+37189	2023-01-30	Strikes (Minimum Service Levels) Bill &#8212; Schedule - Minimum Service Levels for Certain Strikes
+37190	2023-01-30	Strikes (Minimum Service Levels) Bill &#8212; Schedule - Minimum Service Levels for Certain Strikes
+37191	2023-01-31	Crime and Neighbourhood Policing
+37192	2023-01-31	Crime and Neighbourhood Policing
+37193	2023-01-31	Non-domicile Tax Status
+37194	2023-02-01	UK Infrastructure Bank Bill [Lords] &#8212; New Clause 2
+37195	2023-02-01	UK Infrastructure Bank Bill [Lords] &#8212; Clause 2 - Objectives and activities
+37196	2023-02-01	UK Infrastructure Bank Bill [Lords] &#8212; Clause 2 - Objectives and activities
+37197	2023-02-07	Seafarers&#8217; Wages Bill [Lords] &#8212; New Clause 2 - Implementation and monitoring
+37198	2023-02-07	Seafarers&#8217; Wages Bill [Lords] &#8212; New Clause 4 - Directors of companies operating services to which this Act applies: personal liability for non-compliance of operator
+37199	2023-02-07	Seafarers&#8217; Wages Bill [Lords] &#8212; Clause 3 - Request for declaration
+37200	2023-02-07	Higher Education (Freedom of Speech) Bill &#8212; Clause 4 - Civil claims
+37201	2023-02-07	Delegated Legislation &#8212; Electricity
+37225	2023-02-21	Scottish Affairs Committee
+37226	2023-02-28	NHS Workforce Expansion
+37227	2023-03-01	Social Housing (Regulation) Bill [Lords] &#8212; New Clause 7 - Regulator duty to ensure continuity of secure and assured tenancy in cases of threat to safety
+37228	2023-03-01	Social Housing (Regulation) Bill [Lords] &#8212; Clause 1 - Fundamental objectives
+37229	2023-03-01	Social Housing (Regulation) Bill [Lords] &#8212; Clause 28
+37230	2023-03-06	Social Security (Additional Payments) (No. 2) Bill &#8212; Clause 1 - Means-tested additional payments: main payments
+37231	2023-03-06	Social Security (Additional Payments) (No. 2) Bill &#8212; Clause 2 - Qualifying entitlements: social security benefits
+37232	2023-03-07	Public Order Bill &#8212; Clause 9 - Offence of interference with access to or provision of abortion services
+37233	2023-03-07	Public Order Bill &#8212; Clause 9 - Offence of interference with access to or provision of abortion services
+37241	2023-03-07	Public Order Bill &#8212; Clause 9 - Offence of interference with access to or provision of abortion services
+37242	2023-03-07	Public Order Bill &#8212; Clause 9 - Offence of interference with access to or provision of abortion services
+37236	2023-03-07	Public Order Bill &#8212; Clause 20 - Serious disruption prevention order made otherwise than on conviction
+37243	2023-03-13	Illegal Migration Bill
+37244	2023-03-13	Illegal Migration Bill
+37245	2023-03-13	Illegal Migration Bill: Programme
+37246	2023-03-13	Illegal Migration Bill: Money
+37255	2023-03-21	18. Pensions (lifetime allowance charge and annual allowance)
+37256	2023-03-21	36. Alcohol duty
+37257	2023-03-22	Northern Ireland
+37252	2023-03-22	Public Order Bill &#8212; Clause 11 - Powers to stop and search without suspicion
+37253	2023-03-22	Deferred Division &#8212; Criminal Law
+37262	2023-03-27	Illegal Migration Bill &#8212; Clause 37 - Suspensive claims: interpretation
+37272	2023-03-27	Illegal Migration Bill &#8212; New Clause 6 - Safe Passage Pilot Scheme
+37260	2023-03-27	Illegal Migration Bill &#8212; New Clause 24 - Safe and legal routes: family reunion for children
+37261	2023-03-27	Illegal Migration Bill &#8212; New Clause 25 - International co-operation
+37264	2023-03-28	Illegal Migration Bill &#8212; Clause 2 - Duty to make arrangements for removal
+37273	2023-03-28	Illegal Migration Bill &#8212; Clause 11 - Powers of detention
+37274	2023-03-28	Illegal Migration Bill &#8212; Clause 22 - Provisions relating to support: England and Wales
+37275	2023-03-28	Illegal Migration Bill &#8212; New Clause 21 - Organised immigration crime enforcement
+37279	2023-03-28	Illegal Migration Bill &#8212; New Clause 27 - Accommodation: Duty to Consult
+37280	2023-03-29	Finance (No. 2) Bill
+37288	2023-04-18	Finance (No. 2) Bill &#8212; New Clause 1 - Statement on efforts to support implementation of the Pillar 2 model rules
+37282	2023-04-18	Finance (No. 2) Bill &#8212; New Clause 3 - Review of business taxes
+37289	2023-04-18	Finance (No. 2) Bill &#8212; New Clause 6 - Review of energy (oil and gas) profits levy allowances
+37290	2023-04-19	Finance (No. 2) Bill &#8212; Clause 18 - Lifetime allowance charge abolished
+37291	2023-04-19	Finance (No. 2) Bill &#8212; Clause 18 - Lifetime allowance charge abolished
+37292	2023-04-19	Finance (No. 2) Bill &#8212; New Clause 5 - Review of alternatives to the abolition of the lifetime allowance charge
+37293	2023-04-19	Finance (No. 2) Bill &#8212; Clause 27 - Power to clarify tax treatment of devolved social security benefitsClause 27
+37294	2023-04-24	Public Order Bill &#8212; Clause 11 - Powers to stop and search without suspicion
+37312	2023-04-25	Water Quality: Sewage Discharge
+37313	2023-04-25	Water Quality: Sewage Discharge
+37300	2023-04-25	Cost of Living Increases
+37301	2023-04-25	Cost of Living Increases
+37302	2023-04-26	Illegal Migration Bill &#8212; New Clause 9 - Accommodation: duty to consult
+37314	2023-04-26	Illegal Migration Bill &#8212; New Clause 10 - Expedited asylum processing
+37315	2023-04-26	Illegal Migration Bill &#8212; New Clause 15 - Border Security: Terrorism
+37305	2023-04-26	Illegal Migration Bill &#8212; Clause 1 - Introduction
+37327	2023-04-26	Illegal Migration Bill &#8212; Clause 11 - Powers of detention
+37328	2023-04-26	Illegal Migration Bill &#8212; Title
+37318	2023-05-03	National Security Bill &#8212; Clause 28 - The foreign power condition
+37319	2023-05-03	National Security Bill &#8212; After Clause 14 - Foreign interference in elections: duties on political parties
+37320	2023-05-03	National Security Bill &#8212; After Clause 89 - Duty to update the Intelligence and Security Committee of Parliament&#8217;s memorandum of understanding
+37321	2023-05-03	Lifelong Learning (Higher Education Fee Limits) Bill &#8212; New Clause 1 - Review
+37332	2023-05-16	Cost of Living
+37333	2023-05-16	Cost of Living
+37331	2023-05-16	Public Order Act 2023
+37335	2023-05-22	Non-Domestic Rating Bill &#8212; Clause 13 - Requirements for ratepayers etc to provide information
+37340	2023-05-22	Strikes (Minimum Service Levels) Bill &#8212; Clause 4 - Extent
+37337	2023-05-22	Strikes (Minimum Service Levels) Bill &#8212; Schedule - Minimum service levels for certain strikes
+37338	2023-05-22	Strikes (Minimum Service Levels) Bill &#8212; Schedule - Minimum service levels for certain strikes
+37339	2023-05-22	Strikes (Minimum Service Levels) Bill &#8212; Schedule - Minimum service levels for certain strikes
+37341	2023-05-23	Leasehold Reform
+37342	2023-05-23	Safety of School Buildings
+37343	2023-05-24	Retained EU Law (Revocation and Reform) Bill
+37344	2023-05-24	Retained EU Law (Revocation and Reform) Bill &#8212; Clause 1 - Sunset of EU-derived subordinate legislation and retained direct EU legislation
+37345	2023-05-24	Retained EU Law (Revocation and Reform) Bill &#8212; After Clause 16 - Environmental protection and food standards
+37346	2023-05-24	Retained EU Law (Revocation and Reform) Bill &#8212; Schedule 4 - Regulations: Procedure
